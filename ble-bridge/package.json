@@ -1,0 +1,14 @@
+{
+  "name": "ehms-ble-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "scan": "node index.js --scan"
+  },
+  "dependencies": {
+    "@abandonware/noble": "^1.9.2-15",
+    "axios": "^1.6.8"
+  }
+}
