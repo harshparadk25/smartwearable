@@ -1,0 +1,35 @@
+{
+  "device": {
+    "name": "",
+    "id": ""
+  },
+  "services": {
+    "heartRate": "180d",
+    "spo2": "1822",
+    "temperature": "1809"
+  },
+  "characteristics": {
+    "heartRateMeasurement": "2a37",
+    "spo2Measurement": "2a5e",
+    "temperatureMeasurement": "2a1c"
+  },
+  "backend": {
+    "apiUrl": "http://localhost:5000/api/health",
+    "connectionUrl": "http://localhost:5000/api/connections",
+    "userId": "user1"
+  },
+  "defaults": {
+    "heartRate": 75,
+    "spo2": 97,
+    "temperature": 36.8
+  },
+  "scan": {
+    "serviceUuids": [],
+    "allowDuplicates": true
+  },
+  "reconnectDelayMs": 3000,
+  "readIntervalMs": 5000,
+  "mappingProbeMs": 1500,
+  "bridgePort": 7070,
+  "bridgeOrigin": "http://localhost:5173"
+}

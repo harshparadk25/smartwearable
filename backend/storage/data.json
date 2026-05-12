@@ -1,0 +1,5654 @@
+{
+  "healthData": [
+    {
+      "userId": "user-1",
+      "heartRate": 87.9,
+      "spo2": 95.4,
+      "temperature": 37.3,
+      "timestamp": "2026-05-08T09:52:23.089Z",
+      "_id": "84180aa3-e215-4ea2-8429-a36d935388c2"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 78.6,
+      "spo2": 97.2,
+      "temperature": 37.3,
+      "timestamp": "2026-05-08T09:52:25.123Z",
+      "_id": "4cc3e2a7-1a95-40b4-abf9-1a642a271ace"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 72.8,
+      "spo2": 96.8,
+      "temperature": 36.6,
+      "timestamp": "2026-05-08T09:52:27.124Z",
+      "_id": "b5a6e531-d698-4a40-a098-90bf8c88732c"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 129.8,
+      "spo2": 94.4,
+      "temperature": 36.5,
+      "timestamp": "2026-05-08T09:52:29.129Z",
+      "_id": "2cb7292b-6cf5-489b-87b3-e7a320db1298"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 94.8,
+      "spo2": 99.2,
+      "temperature": 36.9,
+      "timestamp": "2026-05-08T09:52:31.137Z",
+      "_id": "59cac3da-55a0-4f65-9d55-4a391d9f36ee"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 102.5,
+      "spo2": 99.9,
+      "temperature": 37.2,
+      "timestamp": "2026-05-08T09:52:33.150Z",
+      "_id": "07ba728e-9a24-4825-961d-35e074470812"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 80.8,
+      "spo2": 83.7,
+      "temperature": 37.1,
+      "timestamp": "2026-05-08T09:52:35.157Z",
+      "_id": "5b358e6d-fbe0-4e38-85a0-2b384a046ec3"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 78.6,
+      "spo2": 96.2,
+      "temperature": 36.8,
+      "timestamp": "2026-05-08T09:52:37.160Z",
+      "_id": "5c335948-93f9-4379-9520-70769f66afc7"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 89.5,
+      "spo2": 94.7,
+      "temperature": 39.2,
+      "timestamp": "2026-05-08T09:52:39.167Z",
+      "_id": "197aa4f5-ab14-4f01-aec8-a0657e453678"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 75.8,
+      "spo2": 94.2,
+      "temperature": 36.9,
+      "timestamp": "2026-05-08T09:52:41.174Z",
+      "_id": "13c52480-b13c-4103-aa30-6b4b518f2281"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 67,
+      "spo2": 95.7,
+      "temperature": 36.8,
+      "timestamp": "2026-05-08T09:52:43.180Z",
+      "_id": "e363d7bc-1514-495b-9918-a1fecc9b423b"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 83.3,
+      "spo2": 95.1,
+      "temperature": 39,
+      "timestamp": "2026-05-08T09:52:45.183Z",
+      "_id": "e4faefd8-d672-4c1d-8fe4-2dbdcfc7c4b8"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 136.8,
+      "spo2": 98.3,
+      "temperature": 37.1,
+      "timestamp": "2026-05-08T09:52:47.194Z",
+      "_id": "d86e6d56-8014-482e-a8fc-58db071f2a2b"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 76.9,
+      "spo2": 96.5,
+      "temperature": 36.6,
+      "timestamp": "2026-05-08T09:52:49.197Z",
+      "_id": "f4e1c73a-64a1-496d-a5c0-be9ab089792b"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 92.7,
+      "spo2": 97.6,
+      "temperature": 36.9,
+      "timestamp": "2026-05-08T09:52:51.199Z",
+      "_id": "4d32840b-f1ed-4daa-a30d-58d89c3a2c4b"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 77.2,
+      "spo2": 96,
+      "temperature": 37.4,
+      "timestamp": "2026-05-08T09:52:53.209Z",
+      "_id": "849162a5-0882-4ac3-bc34-624aeb0618a6"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 73.5,
+      "spo2": 97.7,
+      "temperature": 36.5,
+      "timestamp": "2026-05-08T09:52:55.221Z",
+      "_id": "8142ffdf-b066-4322-9b82-70bee9909281"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 83.4,
+      "spo2": 99,
+      "temperature": 36.5,
+      "timestamp": "2026-05-08T09:52:57.224Z",
+      "_id": "14e64ed8-3bdc-4e80-a8f5-444c0b20e066"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 97.4,
+      "spo2": 96.3,
+      "temperature": 37.2,
+      "timestamp": "2026-05-08T09:52:59.231Z",
+      "_id": "70347a93-d3f2-4bd8-a374-6cb1ce2cd1bb"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 92,
+      "spo2": 94.8,
+      "temperature": 39.3,
+      "timestamp": "2026-05-08T09:53:01.249Z",
+      "_id": "2fc1de79-90cb-4601-9095-5091221d0784"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 83.2,
+      "spo2": 97.5,
+      "temperature": 36.9,
+      "timestamp": "2026-05-08T09:53:03.251Z",
+      "_id": "d5941144-56af-4884-be6b-bc97b72391e4"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 94.8,
+      "spo2": 99.6,
+      "temperature": 37.6,
+      "timestamp": "2026-05-08T09:53:05.252Z",
+      "_id": "409e7853-c68c-4cee-8f5c-bc30114296ee"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 94.3,
+      "spo2": 98.6,
+      "temperature": 37.2,
+      "timestamp": "2026-05-08T09:53:07.265Z",
+      "_id": "abe3926e-ddd0-4e39-825b-b3c5b84a8dc4"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 132.9,
+      "spo2": 96.2,
+      "temperature": 37.4,
+      "timestamp": "2026-05-08T09:53:09.264Z",
+      "_id": "bfcb8f88-45b8-456c-a6d5-bd31143d534f"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 133.1,
+      "spo2": 96.5,
+      "temperature": 36.7,
+      "timestamp": "2026-05-08T09:53:11.275Z",
+      "_id": "b51fcce1-aad0-437d-81f4-2fb4861e1486"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 93,
+      "spo2": 96.4,
+      "temperature": 37.4,
+      "timestamp": "2026-05-08T09:53:13.275Z",
+      "_id": "4b26c854-59db-4897-88ac-ff949062c0f6"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 101.6,
+      "spo2": 99.8,
+      "temperature": 37,
+      "timestamp": "2026-05-08T09:53:15.287Z",
+      "_id": "a6ce5149-94ee-47f0-bcd7-ceedb0037381"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 79.1,
+      "spo2": 98,
+      "temperature": 36.3,
+      "timestamp": "2026-05-08T09:53:17.290Z",
+      "_id": "eb6e8df0-0a34-47db-9191-efcf58d5d5a8"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 100.7,
+      "spo2": 98.8,
+      "temperature": 37.1,
+      "timestamp": "2026-05-08T09:53:19.301Z",
+      "_id": "db9efd86-653d-48ba-9813-8b165cf0b720"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 79.8,
+      "spo2": 99.9,
+      "temperature": 37,
+      "timestamp": "2026-05-08T09:53:21.306Z",
+      "_id": "77cea5b7-03d5-4836-a994-d44ba2297a7b"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 80.5,
+      "spo2": 94.8,
+      "temperature": 36.9,
+      "timestamp": "2026-05-08T09:53:23.311Z",
+      "_id": "10d72ca1-9318-4066-b4dd-739e497f030f"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 69.7,
+      "spo2": 97.3,
+      "temperature": 36.5,
+      "timestamp": "2026-05-08T09:53:25.316Z",
+      "_id": "ec7ba017-f897-4898-996d-02e51cfe8e68"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 77.4,
+      "spo2": 99.5,
+      "temperature": 37.2,
+      "timestamp": "2026-05-08T09:53:27.326Z",
+      "_id": "38a515d7-137b-40dc-948c-3cba70ef47da"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 74.1,
+      "spo2": 94.3,
+      "temperature": 37.3,
+      "timestamp": "2026-05-08T09:53:29.333Z",
+      "_id": "7fa28c31-16d7-4e90-93a2-30890e3b402c"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 80.5,
+      "spo2": 94.8,
+      "temperature": 37.2,
+      "timestamp": "2026-05-08T09:53:31.348Z",
+      "_id": "29c68e39-9c8d-4984-9e56-a20818a6d9c3"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 130.3,
+      "spo2": 94,
+      "temperature": 38.5,
+      "timestamp": "2026-05-08T09:53:33.354Z",
+      "_id": "c566014c-1a40-434b-a041-1a44500a0bd9"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 67,
+      "spo2": 97.1,
+      "temperature": 38.4,
+      "timestamp": "2026-05-08T09:53:35.364Z",
+      "_id": "90cdd9e9-c42f-4713-8120-739421385602"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 135.3,
+      "spo2": 96.4,
+      "temperature": 37.5,
+      "timestamp": "2026-05-08T09:53:37.367Z",
+      "_id": "b72c2d14-a501-40b0-91cd-453965e7456a"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 80.2,
+      "spo2": 89,
+      "temperature": 36.5,
+      "timestamp": "2026-05-08T09:53:39.382Z",
+      "_id": "a0410c77-ec64-46d6-9d35-c1d4f7dfbf50"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 73.5,
+      "spo2": 95.8,
+      "temperature": 38.3,
+      "timestamp": "2026-05-08T09:53:41.389Z",
+      "_id": "c25ad5e2-1e18-43d6-b629-e775dea3454b"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 78.7,
+      "spo2": 98.2,
+      "temperature": 36.7,
+      "timestamp": "2026-05-08T09:53:43.399Z",
+      "_id": "327a12e5-42ca-4c37-867c-152cebf9b781"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 96.1,
+      "spo2": 94.5,
+      "temperature": 37,
+      "timestamp": "2026-05-08T09:53:45.408Z",
+      "_id": "5dd09e88-161e-4be7-8f23-7151dcca7d8f"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 72.5,
+      "spo2": 97.7,
+      "temperature": 37.3,
+      "timestamp": "2026-05-08T09:53:47.417Z",
+      "_id": "17f72d38-e8dd-480e-b7a5-73ac54aab6a3"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 70.4,
+      "spo2": 96.9,
+      "temperature": 37.1,
+      "timestamp": "2026-05-08T09:53:49.428Z",
+      "_id": "8fb950f3-a559-4bc0-99ef-49dfb81ece60"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 90,
+      "spo2": 96.4,
+      "temperature": 36.9,
+      "timestamp": "2026-05-08T09:53:51.433Z",
+      "_id": "790bb7ed-588b-4c6f-a7e8-123971845a16"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 144.4,
+      "spo2": 95.6,
+      "temperature": 36.4,
+      "timestamp": "2026-05-08T09:53:53.433Z",
+      "_id": "039c6cf0-c8ef-4da8-bdd8-4eb43dc844cb"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 101.5,
+      "spo2": 96.5,
+      "temperature": 36.6,
+      "timestamp": "2026-05-08T09:53:55.445Z",
+      "_id": "6d7402bb-fb33-4cf2-b005-b77473cebbaa"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 130,
+      "spo2": 97.7,
+      "temperature": 36.6,
+      "timestamp": "2026-05-08T09:53:57.450Z",
+      "_id": "87771c60-0fc2-47ba-ba81-f45de157a383"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 88.9,
+      "spo2": 96,
+      "temperature": 36.6,
+      "timestamp": "2026-05-08T09:53:59.461Z",
+      "_id": "d9409fcd-82cc-4a4f-97cb-2536c324b2f2"
+    },
+    {
+      "userId": "user-1",
+      "heartRate": 69.3,
+      "spo2": 98.6,
+      "temperature": 37.2,
+      "timestamp": "2026-05-08T09:54:01.477Z",
+      "_id": "fe3b2875-bb27-4d40-b5d6-fdd14b2f23b2"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:22:25.374Z",
+      "_id": "6b66a0eb-8dea-455e-9c88-d56950601c5c"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 79,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:22:26.332Z",
+      "_id": "af88cae1-df34-4080-bd23-1c79625d66a1"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 79,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:22:27.322Z",
+      "_id": "7582d60d-4af5-424b-a581-dc4b78ebdf71"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 79,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:22:28.314Z",
+      "_id": "8f094a30-8ba3-4fb3-8105-dbbae915b29f"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 79,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:22:29.321Z",
+      "_id": "a51b8332-664b-4998-8c4c-15250c52ab74"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 79,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:22:30.313Z",
+      "_id": "998d9e1e-a472-42a0-95d3-ccbcbeab06e4"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:22:31.304Z",
+      "_id": "575ac92b-34e3-4bf3-b6d8-4abb2e56a804"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:22:32.311Z",
+      "_id": "83f3e370-4682-460b-9b04-f393bce9178e"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:22:33.303Z",
+      "_id": "ffd233cb-65e5-4d96-9e1d-678336a595d8"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 81,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:22:34.311Z",
+      "_id": "be5477b6-dff4-48e9-adf4-0ba533afd3c3"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 81,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:22:35.302Z",
+      "_id": "a4971ab8-01bf-48e9-be49-79a5b762c1d3"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 81,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:22:36.309Z",
+      "_id": "20d04b40-855c-4a34-bb1f-6e832924506f"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 81,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:22:37.316Z",
+      "_id": "8b3d1c9c-16d7-43a2-98b5-a8b7f4a57c16"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 81,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:22:38.307Z",
+      "_id": "64ea064b-76ce-4716-9654-4f330e807ae5"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:22:39.299Z",
+      "_id": "ff39e5d6-f89c-4d91-8479-ea1535913888"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:22:40.290Z",
+      "_id": "08fd525b-0ef5-4089-b236-c5f8adff48e4"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 85,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:22:41.298Z",
+      "_id": "1883c4d6-25aa-45f0-93f3-346ce7e1cd55"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:14.719Z",
+      "_id": "885e929c-9f86-4c32-ad09-c05c5620ceb4"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:15.620Z",
+      "_id": "08d74a62-0fca-45ee-b35f-41cd99c9b3e3"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:16.745Z",
+      "_id": "22853c76-04e0-42ae-96cd-43a324861649"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 82,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:32.105Z",
+      "_id": "4af81c15-4fe6-4c30-ab99-e57d81d89661"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 82,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:33.031Z",
+      "_id": "a04a269b-91ee-4a5d-912d-e31c4dcb5a0d"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 82,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:34.040Z",
+      "_id": "c9afe6ab-cd08-4e0f-9fc2-cac2f8a01745"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 82,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:35.014Z",
+      "_id": "37bd4da2-103b-4a66-8f05-43b8354e5733"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 82,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:36.021Z",
+      "_id": "03bccdd7-6e29-4475-a863-8cc230ff8985"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 82,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:37.030Z",
+      "_id": "5fe4cdd7-29fd-4e24-a679-c2a272daf896"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 82,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:38.021Z",
+      "_id": "e79b9e64-3122-40b3-b358-7ff224424ae0"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 82,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:39.011Z",
+      "_id": "48e21487-41ca-4e95-9535-82b2b30a7839"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:40.051Z",
+      "_id": "337ce06e-9806-4dff-91c7-8227620ef168"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:41.010Z",
+      "_id": "508edb1e-3956-400d-9d77-edd15975f7b4"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:42.018Z",
+      "_id": "adbb0f6e-6e7f-4964-9da6-bd09ddee8842"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:43.026Z",
+      "_id": "c266bbc6-8e5f-45d6-b08f-86ad07ded100"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:44.017Z",
+      "_id": "0de10bb5-427e-443e-97e8-07ec1761c71d"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:45.008Z",
+      "_id": "ccd411f6-ade6-4d23-9803-5e8d04b1efe1"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:45.999Z",
+      "_id": "2fe31db3-2a18-4754-8b73-0ee3c50eec91"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:47.007Z",
+      "_id": "e5ba5ec8-019f-4af3-aead-0848c2718d78"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:47.998Z",
+      "_id": "1c835682-849d-4f23-a587-1e109b54ea26"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:49.006Z",
+      "_id": "9aa82e5b-a364-436b-ad4f-21c81aca8885"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:50.014Z",
+      "_id": "158e41d4-db4f-4105-9a69-e3b4389ace79"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:51.005Z",
+      "_id": "56fa0598-ce17-41b0-9563-9dbb7eac522d"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:51.996Z",
+      "_id": "a7ad9f65-413a-4f14-968f-90be709cbbe0"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:53.036Z",
+      "_id": "3fc4dd5d-e825-4617-a7e5-42c5b326809b"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:53.994Z",
+      "_id": "794ea4cb-e4bb-4038-be8e-2c72d258ab67"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:23:55.002Z",
+      "_id": "a0bcb146-6294-4829-ab16-a2e8e28d9c9e"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:30:09.604Z",
+      "_id": "cdd53642-a4ea-4490-a69d-c9f82c7bb05e"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:30:10.594Z",
+      "_id": "6fd78438-1476-4a84-98a7-e12365cabef1"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:30:11.586Z",
+      "_id": "dc1b9b24-8b99-493a-b891-5b419b8827be"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:30:12.593Z",
+      "_id": "69da964a-39d5-4b01-bd03-42d181f77b06"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:30:13.584Z",
+      "_id": "db58efaf-b10b-4a60-b5ff-3b507486803a"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:30:14.592Z",
+      "_id": "3b26ee1f-2a3a-4389-9c8c-429795f1be84"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:30:15.583Z",
+      "_id": "1dd1635c-8374-459c-86f4-375bcc54678c"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:30:16.591Z",
+      "_id": "74827b71-ba74-4888-b274-f91c2022eedf"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:30:17.583Z",
+      "_id": "10d8df91-3b6a-4d53-b7d1-1c8f9a107c73"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:30:18.574Z",
+      "_id": "f9e43184-9b83-4fc5-84a3-e7182a3c2f36"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:30:19.581Z",
+      "_id": "42ff865d-5b68-4143-9d39-308798335796"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:30:20.588Z",
+      "_id": "93f3ad6f-50e7-4692-bc6c-589a418ee3e0"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:30:21.580Z",
+      "_id": "74ddf44c-f12a-4713-b68a-bd83eb6ad9a4"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:30:22.571Z",
+      "_id": "72137336-96fe-4c58-ae18-b447a245c3c3"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:30:23.578Z",
+      "_id": "69bcff0c-f6bb-45c8-b231-44f816589c3d"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:30:24.570Z",
+      "_id": "2a660eae-9cf8-484b-89d0-1eb0807674df"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:30:25.578Z",
+      "_id": "3b855138-f18c-4a35-bd5e-e0392ad0dc8f"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 85,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:30:26.568Z",
+      "_id": "8ba139c1-9be7-4d06-bc65-c0365e0d383c"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 85,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:30:27.560Z",
+      "_id": "7f556986-4499-46be-966e-b481316c1d33"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 85,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:30:28.567Z",
+      "_id": "4830306e-ade5-48f6-9938-91a24d13effc"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 85,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:30:29.558Z",
+      "_id": "1b4c60d6-f5b7-47bd-b890-e5182a8be7f8"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 85,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:30:30.566Z",
+      "_id": "6a805ee4-b151-4041-8928-dfb2e5e2cbf1"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 81,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:01.209Z",
+      "_id": "90cd836b-250b-467a-b609-f0942fc62d75"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:02.221Z",
+      "_id": "c870c870-80e4-45ad-8084-88874130a481"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:03.184Z",
+      "_id": "93089d7d-4fa5-407d-8d24-1c80df2ef513"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:04.159Z",
+      "_id": "048615f4-9d10-4441-8328-0beb90945b69"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:05.166Z",
+      "_id": "1ef0432e-a4cf-4f2c-ad01-5aed122e6153"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:06.157Z",
+      "_id": "4c00ec10-3e61-4032-9616-2dcfd2f06100"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:07.148Z",
+      "_id": "76284a5a-b244-4e65-b4e3-2184719dd715"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:08.156Z",
+      "_id": "258f1497-d912-48a4-90cd-c1d55fa83e6b"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:09.163Z",
+      "_id": "4a86f02a-084b-4ee0-a16d-0e76ee12b3dc"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:10.154Z",
+      "_id": "bd7a89f6-71e0-46ce-8641-b9530e242e72"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:11.147Z",
+      "_id": "125cdadc-59d9-4e3c-a729-fe86ecf36959"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:12.154Z",
+      "_id": "dac1bc2b-b30d-4616-a4a7-62f466dd8acf"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 81,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:13.163Z",
+      "_id": "a99e50fa-d59d-43c2-a0ff-38403db7b341"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 81,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:14.153Z",
+      "_id": "6e6acf2d-0276-470b-be72-f194b9c0d203"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 81,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:15.144Z",
+      "_id": "3e2ff62c-7030-4cf8-8031-69f8f938b48a"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:16.184Z",
+      "_id": "2d6e683e-869b-4fd7-9881-7c9b4199fe91"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:17.143Z",
+      "_id": "066cdc33-41d5-4d39-9bff-e663d88bbc58"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:18.151Z",
+      "_id": "e03fb2e6-dc0c-4227-9396-056b4d86f44b"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:19.158Z",
+      "_id": "7cd3e335-5536-45b2-84e2-b9306df65dd9"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 81,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:20.150Z",
+      "_id": "46767efe-7086-47a4-9d41-b7359e5d0dbe"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 81,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:21.141Z",
+      "_id": "329c5697-394b-4bfa-81a6-461a8e7019c1"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 81,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:22.148Z",
+      "_id": "ede03587-424f-45db-9125-aa15297e0824"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 81,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:23.139Z",
+      "_id": "964338a2-aa9e-4568-84c4-b8f753bd1976"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 81,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:24.147Z",
+      "_id": "6ea1730c-69a7-4e7c-ac9e-a2b85e897781"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:48.523Z",
+      "_id": "066d2206-d2f3-4749-a680-222783bd655d"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:49.531Z",
+      "_id": "9f2c6292-8efe-4224-a995-be79deff0139"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:50.538Z",
+      "_id": "eaa8caa4-6bc9-41b8-b78c-d51336c09ba5"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 81,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:51.529Z",
+      "_id": "5f5af396-baca-4b95-9233-8205227f35e1"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:52.521Z",
+      "_id": "09f2bb3e-e2fe-495c-a656-87b094cfa585"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:53.527Z",
+      "_id": "d4d8caa2-1847-4a20-b5ba-edc191b3380c"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:54.519Z",
+      "_id": "34ae92c2-7e3d-4d66-a2be-a3c2a7a46389"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:55.526Z",
+      "_id": "5f89a77a-1bb4-4c94-8aca-de179f6db4f2"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:56.518Z",
+      "_id": "707711ac-c5a5-49ca-8877-237b91794e97"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:57.557Z",
+      "_id": "5a8f923b-dc5d-4a0f-a740-aaf4fef3e235"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:58.516Z",
+      "_id": "48bc918e-9041-4db1-8092-eac85e1bc142"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:42:59.524Z",
+      "_id": "5ef44b67-264f-4081-b244-e7fc3326b63d"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:43:00.564Z",
+      "_id": "bf397d96-d209-456c-b057-914fefe51b09"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:43:01.523Z",
+      "_id": "f55e387a-52bd-429d-bfd6-e4a6c8768c45"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:43:02.514Z",
+      "_id": "17d5bc28-4c1b-4c20-bae8-bf8d0e3cb78d"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 73,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:43:03.555Z",
+      "_id": "5fdfdb15-be86-4354-bb8e-6dea6ff7d8b5"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 73,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:43:04.513Z",
+      "_id": "f57e6304-d9e1-4f0d-97fa-03ab2c45eaaa"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 73,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:43:05.504Z",
+      "_id": "a260e932-d217-43f9-931c-a48d3bd873ea"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 73,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:43:06.544Z",
+      "_id": "484be76b-d3b1-40b0-9608-825763224967"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 73,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:43:07.519Z",
+      "_id": "2d8a21d1-0ab3-44e1-be4f-d2210912bd53"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 73,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:43:08.510Z",
+      "_id": "40a53d95-9a0a-4295-bfd7-e575f3e252c8"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 73,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:43:09.517Z",
+      "_id": "89b2342d-bf5a-401d-9fea-0d7c05742ea3"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:43:10.509Z",
+      "_id": "10ba535c-18d5-46d2-862a-4b4b65696a79"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:43:11.497Z",
+      "_id": "5907a3d6-0314-4a50-9f8e-d7b71c44080e"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 81,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:53:50.985Z",
+      "_id": "6db0a6f8-e3e4-4155-a062-4fdad591e763"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 81,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:53:51.996Z",
+      "_id": "3f2d74cb-901c-4f5c-9ad7-8a6fb828897b"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 81,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:53:53.010Z",
+      "_id": "83fcbba0-d12f-49c4-9e5a-69f27b040537"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 79,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:53:54.134Z",
+      "_id": "de515a32-a0a2-4d4c-9850-490476a12980"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 79,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:53:55.145Z",
+      "_id": "3ffcbcb4-4e0a-4291-9916-e4f237db9f65"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 79,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:53:55.970Z",
+      "_id": "2e17545a-7ab8-4ad3-836a-e765fe4c3a68"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 79,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:53:56.944Z",
+      "_id": "9fb7b95b-f8e2-4a3a-9d8c-ba136f5a333e"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:53:57.952Z",
+      "_id": "1ca1d491-edd4-4ac9-b22a-fbea356318e5"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:53:58.943Z",
+      "_id": "df875575-5c18-4fa2-9a1d-f534a31ed25e"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:53:59.952Z",
+      "_id": "d5962d27-6b98-4685-9747-843bac5c5e09"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:54:00.943Z",
+      "_id": "70eed900-070d-443b-b4b0-cc962da03ead"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:54:01.950Z",
+      "_id": "ecdb0aac-9c1b-4c05-bb1f-649e6eb3a5e9"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:54:02.957Z",
+      "_id": "ecb45b1b-d39e-4008-8011-205659b3216e"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:54:03.948Z",
+      "_id": "7b544a66-c57d-4366-a57d-161074b7e74a"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:54:04.940Z",
+      "_id": "de5fa94a-9f0b-487c-97ee-eb9576713799"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:54:05.980Z",
+      "_id": "c3eda536-bc7b-4ffb-96a6-372d366ff59a"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:54:06.939Z",
+      "_id": "f61cf16c-b82e-4be8-9a94-e6727556c3a6"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:54:07.947Z",
+      "_id": "80e63f59-18d9-466e-81a7-34499f4b3925"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:54:08.986Z",
+      "_id": "ce7abeaf-fc25-48ec-a69e-ac101a2483e7"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:54:09.945Z",
+      "_id": "3c76e42c-ba4d-4609-822e-d1387be6cb45"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:54:10.936Z",
+      "_id": "290fb256-453e-4039-82d6-efbf201a73d2"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:54:11.977Z",
+      "_id": "d1364939-d362-4b4d-a34e-a5b8c2780a28"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:54:12.935Z",
+      "_id": "81d3ff2b-8ba4-43ea-b132-55efbaa4521c"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T10:54:13.943Z",
+      "_id": "edbab992-bcd3-4097-8f28-ad186ffd5af6"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:00:10.003Z",
+      "_id": "7274a72d-e005-4f68-ab38-3efe695c365c"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:00:11.026Z",
+      "_id": "bce07db8-b4e4-4f5d-a822-73e279cb0e7c"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:00:12.034Z",
+      "_id": "f30f7f67-87a1-4918-87b5-3565e7baa708"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 73,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:00:29.421Z",
+      "_id": "eccdf357-3927-4fdc-8493-491c1653b3e4"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 74,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:00:30.429Z",
+      "_id": "c73bdff4-0237-411c-9740-94164c164c4c"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:10:26.287Z",
+      "_id": "7e9ccd92-e045-4ea9-9446-94531cde943f"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:10:27.299Z",
+      "_id": "c8384b5c-c126-48bb-954f-e0f90f883503"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:10:28.312Z",
+      "_id": "525b02e0-d03d-491f-ba65-0bdd76ad2ff2"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:10:46.558Z",
+      "_id": "f7411bbf-21e1-4eda-8d73-ca1ab79ab745"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:10:47.532Z",
+      "_id": "bfcc67ac-ad60-439b-9bb2-2bc155a6606b"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:10:48.539Z",
+      "_id": "2b50bf77-0a55-4823-9b55-614319bb0898"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:11:46.763Z",
+      "_id": "294a3227-6d17-4463-8b6c-135a1fb5e34b"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:11:47.705Z",
+      "_id": "1d31d8a6-0ebb-426a-aaeb-ac2b9d6325e5"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:11:48.696Z",
+      "_id": "714b3211-7b3a-4dc8-8abb-0f9f2978b263"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:11:49.687Z",
+      "_id": "e646838c-2b3a-4abf-b5b9-152a746df736"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:11:50.694Z",
+      "_id": "ee9407d1-12d7-4dd6-bb90-0553c866312c"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:11:51.686Z",
+      "_id": "fbf55b3e-58d4-4476-b778-0a13396b793e"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:11:52.694Z",
+      "_id": "77b474ae-4cb3-4894-809c-7b583518b592"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:11:53.685Z",
+      "_id": "7d14ab7e-1969-4f89-9a46-2e6aba9b2a31"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:11:54.692Z",
+      "_id": "5aa808f3-5821-47ab-b643-ece93cbaefa3"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:11:55.683Z",
+      "_id": "64ec02f0-d3b1-47cb-9d39-1b0cba99fd2f"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 76,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:11:56.675Z",
+      "_id": "e08322ca-61d3-481d-9dda-3abbb1daf8e7"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 76,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:11:57.682Z",
+      "_id": "37958663-b861-4829-b5a1-3d5cabbfac1a"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 76,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:11:58.674Z",
+      "_id": "ee41d016-19fe-4f47-909d-de5eccce4f55"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 76,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:11:59.681Z",
+      "_id": "bc7556d0-4216-4505-a486-705fc246c699"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 76,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:12:00.689Z",
+      "_id": "00dc6a3c-913c-48ed-87f6-1ce4f2503a6e"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 76,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:12:01.680Z",
+      "_id": "29c95212-c7ff-4380-bbab-929fbcf92985"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 76,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:12:02.671Z",
+      "_id": "d26ca3ab-f669-4130-b471-43c793d4bc06"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 76,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:12:03.711Z",
+      "_id": "8237e000-0e35-4647-b5d2-3ac0edfb4c71"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:12:04.671Z",
+      "_id": "a61d1bda-bc0a-44a1-8d4a-be1c28e19e97"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:12:05.677Z",
+      "_id": "ac521ded-bd53-430d-a811-c8f900272ae8"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:12:06.685Z",
+      "_id": "38801628-57c8-48d5-8cab-38d8ca2246b1"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:12:07.676Z",
+      "_id": "b681da6d-5634-49e0-8e0f-8d5cd933bd1d"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 97,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:12:08.668Z",
+      "_id": "bd47a6c8-7be9-4480-8b7e-fd581b947030"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:35:55.645Z",
+      "_id": "1fe46a1e-bdd4-46a7-9221-7db684f2a74a"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:35:55.646Z",
+      "_id": "0c7ad392-5420-400f-89b6-0b64935fa592"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:35:55.709Z",
+      "_id": "d776de3c-1400-450a-aace-56ff7ed5bd7c"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:35:55.710Z",
+      "_id": "a49928b4-c7cf-44c3-96b9-7c3b98d7b769"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:35:55.711Z",
+      "_id": "4d62a008-bbe7-4c73-8aa0-b8fcd2e841d2"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:35:55.712Z",
+      "_id": "e5fc05d5-d4b5-48d5-8cc5-738aad09fef4"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:35:56.748Z",
+      "_id": "46e13d1b-acca-40be-b89b-c71a609ec81c"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:35:56.751Z",
+      "_id": "57c2dda7-0411-4315-b677-64c40cd2261e"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:35:56.750Z",
+      "_id": "5b76524d-2cac-432e-8b06-7ffc210f402d"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:35:56.752Z",
+      "_id": "c1f4754f-40e0-431f-a86c-ee42ce6f4d7d"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:35:57.708Z",
+      "_id": "fc372849-34d0-438c-9095-129e5669c9de"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:35:57.707Z",
+      "_id": "48afb8da-1070-4761-8e6e-e8e86dc2fe2a"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:35:57.710Z",
+      "_id": "62ab8224-837f-4e10-8194-a68d3d8e1a6b"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:35:57.709Z",
+      "_id": "13529ba5-a5c9-478b-92bf-2a46beaff110"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:35:58.715Z",
+      "_id": "ca06fe81-f131-4db3-bf1d-f3de70b70cb8"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:35:58.717Z",
+      "_id": "0ef9d7cd-64f5-4d5f-afe7-a8d778a7f48e"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:35:58.716Z",
+      "_id": "a15d36e3-8004-450b-a557-90104dfb8403"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:35:58.718Z",
+      "_id": "ede2e4f3-5338-4d5e-9375-dabf8372b20b"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:00.504Z",
+      "_id": "41e31624-7711-4638-b2be-2e0998aa1382"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:00.504Z",
+      "_id": "ac71cb44-1375-45d7-9d81-50b9d5fd73dd"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:05.558Z",
+      "_id": "b4c6dae2-4751-4659-9941-ff392d89fd96"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:05.557Z",
+      "_id": "a53b7c78-af9b-4366-be12-89160e48cce2"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:09.994Z",
+      "_id": "1927d846-1bb9-46dd-b0f2-f380b1f3a431"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:09.993Z",
+      "_id": "15285e6f-1100-48c0-8c30-7092807df2b7"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:09.992Z",
+      "_id": "d9ac14c6-1c7d-4f63-a923-e3061f7e62ff"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:09.995Z",
+      "_id": "5d69f232-6578-4860-8df7-f1e36a371bb6"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:10.498Z",
+      "_id": "9e417e96-6eba-4304-9fff-0c1a9bbc59fd"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:10.499Z",
+      "_id": "ad3c8cc5-b8c1-4157-bd50-c25ab8615309"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:10.919Z",
+      "_id": "35e2eed7-240d-4478-810c-6852f5ac72a2"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:10.919Z",
+      "_id": "3e5476e1-a3d9-445a-883f-7ce1921ce230"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:10.920Z",
+      "_id": "ac6d2ddd-0046-4e3e-be3d-c0ad17ad60b9"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:10.921Z",
+      "_id": "e8776a9a-fd94-44c5-a4f1-25c50be61d6d"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:11.926Z",
+      "_id": "5d834d10-7689-442e-b2b9-fb39cf13a80f"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:11.927Z",
+      "_id": "ace7d4af-49a2-4d85-8b68-bf04970ade7b"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:11.928Z",
+      "_id": "bbb3ac61-d84c-40c5-b939-bed2bbf49207"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:11.928Z",
+      "_id": "55d40b2b-ebe3-47d5-932f-4b5d4dbc1adc"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:12.966Z",
+      "_id": "2556b21b-e6f4-4760-a064-8cb4496dea25"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:12.968Z",
+      "_id": "299efd46-0ba1-417f-b596-9472a2d64f93"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:12.968Z",
+      "_id": "35510bc4-6928-426e-90d2-d9e1e9099270"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:12.969Z",
+      "_id": "35f96edd-c295-4fb5-bc0f-d2a270affdc4"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:13.941Z",
+      "_id": "c35f93f9-c931-4ced-87ac-385a6e442897"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:13.942Z",
+      "_id": "b1c91d2f-8f30-47ac-a647-9dd42b4a6783"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:13.943Z",
+      "_id": "c2dba343-3fc1-4342-81e0-5945c5dcae8a"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 87,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:13.943Z",
+      "_id": "803f070e-8820-4a63-9fb0-8445a05f9929"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 85,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:14.949Z",
+      "_id": "51218801-3939-4669-91d4-eae8d0f01b4c"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 85,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:14.949Z",
+      "_id": "e82cf9ff-553b-4218-9dfc-9c0dd395ed70"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 85,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:14.950Z",
+      "_id": "17ab1256-99f8-420c-948a-201352e160d1"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 85,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:14.951Z",
+      "_id": "02e943a5-39ac-48d9-8281-115711546257"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 85,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:15.502Z",
+      "_id": "0fadb086-c883-4931-ae9d-575849624718"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 85,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:15.502Z",
+      "_id": "ef541924-d7c4-4841-b5f1-ec88fcf5d881"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 85,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:15.924Z",
+      "_id": "dcc5ca4e-1544-4f2f-8a55-db84ba39de76"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 85,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:15.925Z",
+      "_id": "5f9d372c-b94f-40d3-8190-237308e17ec0"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 85,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:15.925Z",
+      "_id": "0c598e4e-b320-40d9-a7b1-637d43920dfd"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 85,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:15.926Z",
+      "_id": "fc8f2b12-7e33-4ecb-bd84-d942ee57883e"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:16.964Z",
+      "_id": "991c69c7-baa4-4e73-825f-05be042aba54"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:16.966Z",
+      "_id": "2db1c0a1-eec4-4f73-aac1-5c3ac3cfc9fc"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:16.967Z",
+      "_id": "f68a0d39-74f1-4817-84b2-d5a5f474d004"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 84,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:16.967Z",
+      "_id": "fd01f4fe-9846-4b3d-9d30-40727791dba6"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 81,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:17.939Z",
+      "_id": "f38e641e-f802-4411-bd8d-b9a2c0d8baee"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 81,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:17.940Z",
+      "_id": "cb436294-4608-4777-80ac-46f93348bb77"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 81,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:17.939Z",
+      "_id": "582485f2-ec59-4eb5-b4c5-268cb8a29f8e"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 81,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:17.941Z",
+      "_id": "62c0c540-4a3f-4047-9e06-5567d8c821ab"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:18.914Z",
+      "_id": "65a6594e-cf6a-4681-826d-fea38a605b70"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:18.916Z",
+      "_id": "7a009dab-2255-48ee-a644-d5f3140ed433"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:18.916Z",
+      "_id": "5b1f922e-6938-4d50-a041-1510887f6bc2"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:18.917Z",
+      "_id": "639e6e79-73d5-4bae-b5a9-0f24d99188dc"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:19.954Z",
+      "_id": "1bef5b8e-7d60-47cd-8908-351f96d24303"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:19.955Z",
+      "_id": "54dcdbe2-5d23-4601-a010-4190343f0fcb"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:19.955Z",
+      "_id": "bcae1b37-495d-4b1e-9217-62e1f750527a"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:19.954Z",
+      "_id": "1040dd8c-0a11-4a79-ab87-28db908b7e21"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:20.507Z",
+      "_id": "f058459a-1a3c-4382-b833-534c5ec9fac8"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:20.508Z",
+      "_id": "3ad1e4d7-5993-4e08-a798-14bc8560697e"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:25.577Z",
+      "_id": "47f1720f-c52c-4852-846d-723b6f982b63"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:25.578Z",
+      "_id": "1a6934ce-2099-4725-b5b1-0678b4eb71ae"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:30.534Z",
+      "_id": "6997ffba-9bd0-4af8-a547-3adf1ae22640"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:30.534Z",
+      "_id": "6e297042-1622-4b23-a0d8-344e88e8828d"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:35.992Z",
+      "_id": "97554f11-8578-4251-a31b-a1b7c71f92d1"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:35.992Z",
+      "_id": "90a102bc-2af4-4b1f-806a-1bd57d9251ff"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:40.832Z",
+      "_id": "e06c8d1b-222c-45ed-a051-db4474375dce"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:40.833Z",
+      "_id": "3311bc25-8ddc-42fc-beeb-266a8b438ef3"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:45.669Z",
+      "_id": "e330bcfb-5e36-4c4d-82a0-15be8a66ee5e"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:45.670Z",
+      "_id": "4ee02d78-c420-466e-969b-178dc6f4a301"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:50.957Z",
+      "_id": "98d4bde7-6f11-4f5d-bab8-98f03a49ea16"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:50.958Z",
+      "_id": "4dfa9571-3453-4b0f-8c41-50cf0bd91389"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:55.682Z",
+      "_id": "696a2453-0160-4bfe-88c9-efa65453033f"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:36:55.683Z",
+      "_id": "7706706c-bd94-4614-acb9-0dce20158492"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:01.082Z",
+      "_id": "b197382e-868e-4193-9d3e-95fa55951a65"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:01.082Z",
+      "_id": "0e8d8fb0-3c51-46dd-ac48-2ec91030da9d"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:06.033Z",
+      "_id": "4b6e8671-0ee4-4c25-957c-60605f3462dc"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:06.033Z",
+      "_id": "09237023-ff10-4556-9a47-9d23fac8d9ec"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:10.871Z",
+      "_id": "396536e4-6d81-4de3-805a-14fe8e9c69bb"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:10.870Z",
+      "_id": "a7df789d-dcd0-4b68-bcd7-c3eab02fe4cb"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:15.707Z",
+      "_id": "11c6fba0-3850-45cc-b8ee-98395da6f0c2"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:15.708Z",
+      "_id": "d9d68319-2ca3-4ec6-8e99-61cd396bd3d0"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:21.108Z",
+      "_id": "8bb6664b-8bd8-4dfb-b585-ac78af90da81"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:21.107Z",
+      "_id": "d6343c66-060b-4672-8311-830f5cfe62fb"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:25.945Z",
+      "_id": "5e898e29-57e9-4d1b-997f-93a429bce901"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:25.946Z",
+      "_id": "d674a2ad-c413-4feb-abb6-187d355e73e2"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:31.233Z",
+      "_id": "1d6c88c4-fe81-49c5-bcae-3fb272c410ae"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:31.234Z",
+      "_id": "edc86c9e-6c6d-4889-bd79-bd863edfb325"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:35.651Z",
+      "_id": "f08eda99-4d37-4d4f-8c3e-efc2bb18a00a"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:35.652Z",
+      "_id": "f3db7bfd-eacd-4c76-b771-e8682cd61afd"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:40.606Z",
+      "_id": "fd25a346-72c6-4ef6-bd28-682e77ce75fc"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:40.607Z",
+      "_id": "fa1aa4ee-e9e4-417d-8782-7fe784e73f52"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:45.745Z",
+      "_id": "5a35ecd3-ee76-434f-abbd-6ac0fc213406"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:45.745Z",
+      "_id": "81448f2f-a533-48a9-9e69-394b97ab966f"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:51.145Z",
+      "_id": "0d66ada3-fdc1-4c52-af48-c2fb1b8be8d7"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:51.146Z",
+      "_id": "ab126b41-5384-46b2-9072-a56dfbdfd5ce"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:56.096Z",
+      "_id": "45c0f4ce-2a46-4006-bf3f-b1aa2e760de8"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:37:56.097Z",
+      "_id": "11a65c86-4576-4066-97cc-a1351c2df46a"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:00.821Z",
+      "_id": "04229651-add6-415c-aa05-20a9647ef620"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:00.821Z",
+      "_id": "8b184f66-cece-4915-9394-f57dcafaf1a9"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:05.771Z",
+      "_id": "283cf2fc-a5ce-43d3-8880-199d0bb1f24a"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:05.772Z",
+      "_id": "7c9b9dcd-308e-4f29-bde5-2e620b4945d5"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:11.173Z",
+      "_id": "f5eb8e40-660e-4f9c-ab25-00fbfa448112"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:11.174Z",
+      "_id": "8317eda4-542f-43e5-9968-3021534c652d"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:11.790Z",
+      "_id": "594e00d0-384b-4def-a1cd-9ad2c07ee19a"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:11.790Z",
+      "_id": "311a98d2-062e-4f69-82d1-eff8c04fbe6e"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:11.791Z",
+      "_id": "21b7528e-4879-4acc-8268-9379d3ceec76"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 83,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:11.792Z",
+      "_id": "a51f2135-ac66-46ff-8594-37290caf4e00"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:12.782Z",
+      "_id": "ca54728b-b28d-4546-b5ea-c8b926abbb42"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:12.782Z",
+      "_id": "91453646-0d63-400a-a615-16587bc274af"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:12.783Z",
+      "_id": "d49fa0ee-3763-441d-8c79-d5e56228d470"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:12.783Z",
+      "_id": "ef522c21-e963-4f62-b2fe-aad76a26b401"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:13.774Z",
+      "_id": "2a19913a-6157-4a26-85ea-819f91634d56"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:13.774Z",
+      "_id": "45321ba8-5d9e-4455-b5e1-1938158b888f"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:13.773Z",
+      "_id": "b8c16b30-4c58-4b7c-89b9-51865fc7f44a"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:13.775Z",
+      "_id": "652edf30-8048-4887-82c4-f30872894f9b"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:14.813Z",
+      "_id": "1bcb3c0d-3a0a-4078-b72a-476eec6d3564"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:14.812Z",
+      "_id": "136881ec-11df-48c2-b80f-5692f723b292"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:14.814Z",
+      "_id": "45153021-fd18-4233-8c6f-822316c2b702"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:14.814Z",
+      "_id": "3c52a42f-57a3-4f95-aed6-a0c92f7b5930"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:15.658Z",
+      "_id": "3d7c41e1-34d3-40c8-8f58-ff4695a0b70a"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 80,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:15.659Z",
+      "_id": "4a41d673-0319-4bc4-90fd-2c13eee40595"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:15.771Z",
+      "_id": "5d06228d-a2c2-4932-bd8e-d108da61401b"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:15.772Z",
+      "_id": "0260b6f6-4e8a-4c57-b277-dbcc7d4be53e"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:15.773Z",
+      "_id": "255109b1-a27e-4325-abaa-3b5df7823ac2"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 78,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:15.773Z",
+      "_id": "10cd6f2a-7466-4eec-95db-8cd42604f6e2"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:16.779Z",
+      "_id": "d032d2c9-b036-4346-8f33-898a20bb3005"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:16.780Z",
+      "_id": "b4d38f48-061b-4b48-9472-27be936ea209"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:16.780Z",
+      "_id": "f7cf309b-9c80-4c2d-a07b-e4a9c39f1fa3"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:16.781Z",
+      "_id": "f520ec4b-3bfd-43c8-90f6-68b35814fefa"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:17.819Z",
+      "_id": "eeb836ac-634d-409c-b6bb-085c0536d978"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:17.820Z",
+      "_id": "4e745006-1398-4990-9780-c1d10ebd426a"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:17.821Z",
+      "_id": "64b56f4a-38b5-4beb-84f8-e877a30776ac"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:17.821Z",
+      "_id": "0e90d870-d71a-44b8-992e-90e7645000d1"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:18.778Z",
+      "_id": "e4bca4db-ee5d-4bd1-82e0-4f17979f8043"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:18.779Z",
+      "_id": "d1d826e3-5a78-4cc2-83bd-d97064cb7704"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:18.779Z",
+      "_id": "99bf1fe1-7146-4e6f-8ef9-bb60cfa5aee5"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 77,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:18.780Z",
+      "_id": "1647491a-3560-4b82-a770-f77a7142bb8d"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:19.787Z",
+      "_id": "9f1153ff-cd95-4b4b-82db-2fad635116bc"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:19.786Z",
+      "_id": "5b01a75d-cfe1-4738-8846-572ebfabe32a"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:19.785Z",
+      "_id": "00379ef0-4335-47a2-866c-25fcad9c41dd"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:19.788Z",
+      "_id": "4182c710-7023-49f1-be9d-f5ffd169deac"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:20.663Z",
+      "_id": "70da46b9-af63-4f09-ae84-e41221710aec"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:20.664Z",
+      "_id": "da8691aa-51a6-4a29-a42c-abee3479e5f3"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:20.792Z",
+      "_id": "dc90ebfd-fd28-4cde-ad3d-4701d2be4722"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:20.793Z",
+      "_id": "495564b9-98b1-42e2-a24f-44711f7960bd"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:20.794Z",
+      "_id": "f9e7590f-3999-45c0-9547-634583786f01"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:20.794Z",
+      "_id": "5f041f5d-ccc3-4b7a-a069-2251f4ca7052"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:21.785Z",
+      "_id": "13a99228-f250-449f-884a-a0b73189dd73"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:21.784Z",
+      "_id": "703baeac-6cc8-4a7b-b321-03f48db60616"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:21.787Z",
+      "_id": "e78d6b3d-1127-4fb5-ab20-6acc58ff8f58"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:21.786Z",
+      "_id": "a43adf3b-aa12-4043-a0b1-ef4f13224d5b"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:22.775Z",
+      "_id": "d99fe1c9-80d2-4feb-9406-1fda1048966d"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:22.775Z",
+      "_id": "d4464faa-8860-40ba-bfc5-c155ae41e4e2"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:22.776Z",
+      "_id": "7dcb1f62-a183-4a2f-8398-8b5a1def8ff1"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:22.777Z",
+      "_id": "7b67aea3-713d-4468-9b74-1752c712b3d3"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:23.782Z",
+      "_id": "811efe78-38d0-4e43-adc4-6c9110a543b2"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:23.783Z",
+      "_id": "2cfedf0f-f712-44ee-b0a0-e9dcf533e61a"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:23.784Z",
+      "_id": "89cb1cfe-9d57-4da2-9557-b7f1409390f5"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:23.784Z",
+      "_id": "93ad162d-f605-417b-8133-e5866a1abba6"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:24.775Z",
+      "_id": "6479be54-804f-4ea3-9ec9-d86addf5efc5"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:24.775Z",
+      "_id": "f11728b9-9b5b-4ac5-9c5c-2ee2b534e0bf"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:24.776Z",
+      "_id": "b2a465ae-9ac9-4a67-856a-201941349c48"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:24.777Z",
+      "_id": "069c733f-ed26-406c-988b-88b49be50052"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:25.668Z",
+      "_id": "2c25b331-dfc7-44be-b7c1-3401f7ebf367"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:25.669Z",
+      "_id": "cce82514-8472-4b80-977a-bcf2a86fbfec"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:25.781Z",
+      "_id": "76a883d5-8509-4ed5-967e-950d8e84dc27"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:25.782Z",
+      "_id": "001ee427-b4fb-4e56-9504-73a0ef988c45"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:25.782Z",
+      "_id": "a9ab60e3-5b92-41ba-9b1d-d1f482bc040c"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:25.783Z",
+      "_id": "94cb9e2a-5d16-45d4-8e3e-2f4b51fdb887"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:26.773Z",
+      "_id": "9c58bcdf-bf99-4e66-b974-124892d7967f"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:26.773Z",
+      "_id": "45abb7e2-b7f6-4240-a706-8a190767b39d"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:26.774Z",
+      "_id": "60075e9a-a8a1-47a3-8946-1216d0d6d155"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 75,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:26.774Z",
+      "_id": "8891f328-1962-406d-bba4-30172075fefc"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 73,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:27.780Z",
+      "_id": "54e4a15e-7883-4fc2-8103-36fc147f7633"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 73,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:27.781Z",
+      "_id": "436b8082-5ee2-4c58-8ed9-6ea636e42194"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 73,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:27.782Z",
+      "_id": "235975ed-fdea-4966-a0ae-1f4053ce17f5"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 73,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:27.782Z",
+      "_id": "33146890-ab68-4d73-b01b-7046db518743"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 73,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:30.706Z",
+      "_id": "871f47d9-d3b7-4e34-ba8b-27f40bc41d20"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 73,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:30.707Z",
+      "_id": "22a1752c-870b-469c-a508-0167e63f6eeb"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 73,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:35.678Z",
+      "_id": "9bea451e-62de-4300-b43e-7cdc2b3681f0"
+    },
+    {
+      "userId": "user1",
+      "heartRate": 73,
+      "spo2": 86,
+      "temperature": 36.8,
+      "timestamp": "2026-05-10T11:38:35.679Z",
+      "_id": "3aae716d-d754-48ea-90c5-600976ea2889"
+    }
+  ],
+  "alerts": [
+    {
+      "userId": "user-1",
+      "type": "HEART_RATE",
+      "severity": "HIGH",
+      "message": "High heart rate detected",
+      "value": 129.8,
+      "timestamp": "2026-05-08T09:52:29.129Z",
+      "healthDataId": "2cb7292b-6cf5-489b-87b3-e7a320db1298",
+      "_id": "8d53d424-f46e-421e-bd9f-58d78c5a102f"
+    },
+    {
+      "userId": "user-1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 83.7,
+      "timestamp": "2026-05-08T09:52:35.157Z",
+      "healthDataId": "5b358e6d-fbe0-4e38-85a0-2b384a046ec3",
+      "_id": "9f6ee7d5-0e31-4ba0-9033-48a7f6ddd914"
+    },
+    {
+      "userId": "user-1",
+      "type": "TEMPERATURE",
+      "severity": "MEDIUM",
+      "message": "Elevated temperature detected",
+      "value": 39.2,
+      "timestamp": "2026-05-08T09:52:39.167Z",
+      "healthDataId": "197aa4f5-ab14-4f01-aec8-a0657e453678",
+      "_id": "d6fb7a05-3b00-466c-abf4-9a99f18923bb"
+    },
+    {
+      "userId": "user-1",
+      "type": "TEMPERATURE",
+      "severity": "MEDIUM",
+      "message": "Elevated temperature detected",
+      "value": 39,
+      "timestamp": "2026-05-08T09:52:45.183Z",
+      "healthDataId": "e4faefd8-d672-4c1d-8fe4-2dbdcfc7c4b8",
+      "_id": "468b9382-2fb1-452d-bce1-bce0e2ca337a"
+    },
+    {
+      "userId": "user-1",
+      "type": "HEART_RATE",
+      "severity": "HIGH",
+      "message": "High heart rate detected",
+      "value": 136.8,
+      "timestamp": "2026-05-08T09:52:47.194Z",
+      "healthDataId": "d86e6d56-8014-482e-a8fc-58db071f2a2b",
+      "_id": "3b62c732-5286-437f-b7a6-03d99dfb82e5"
+    },
+    {
+      "userId": "user-1",
+      "type": "TEMPERATURE",
+      "severity": "MEDIUM",
+      "message": "Elevated temperature detected",
+      "value": 39.3,
+      "timestamp": "2026-05-08T09:53:01.249Z",
+      "healthDataId": "2fc1de79-90cb-4601-9095-5091221d0784",
+      "_id": "105b3b26-677c-4239-811f-a565166c5f04"
+    },
+    {
+      "userId": "user-1",
+      "type": "HEART_RATE",
+      "severity": "HIGH",
+      "message": "High heart rate detected",
+      "value": 132.9,
+      "timestamp": "2026-05-08T09:53:09.264Z",
+      "healthDataId": "bfcb8f88-45b8-456c-a6d5-bd31143d534f",
+      "_id": "038d98b8-69ff-4b59-bd81-0c111d2384c6"
+    },
+    {
+      "userId": "user-1",
+      "type": "HEART_RATE",
+      "severity": "HIGH",
+      "message": "High heart rate detected",
+      "value": 133.1,
+      "timestamp": "2026-05-08T09:53:11.275Z",
+      "healthDataId": "b51fcce1-aad0-437d-81f4-2fb4861e1486",
+      "_id": "13051577-cc7e-4bfc-bb88-c304b8d71464"
+    },
+    {
+      "userId": "user-1",
+      "type": "HEART_RATE",
+      "severity": "HIGH",
+      "message": "High heart rate detected",
+      "value": 130.3,
+      "timestamp": "2026-05-08T09:53:33.354Z",
+      "healthDataId": "c566014c-1a40-434b-a041-1a44500a0bd9",
+      "_id": "3bb5bfc8-7414-438f-9459-b34ff22a0f0f"
+    },
+    {
+      "userId": "user-1",
+      "type": "TEMPERATURE",
+      "severity": "MEDIUM",
+      "message": "Elevated temperature detected",
+      "value": 38.5,
+      "timestamp": "2026-05-08T09:53:33.354Z",
+      "healthDataId": "c566014c-1a40-434b-a041-1a44500a0bd9",
+      "_id": "addf62d4-2b9c-4b7b-8aa0-e88fafe8af16"
+    },
+    {
+      "userId": "user-1",
+      "type": "TEMPERATURE",
+      "severity": "MEDIUM",
+      "message": "Elevated temperature detected",
+      "value": 38.4,
+      "timestamp": "2026-05-08T09:53:35.364Z",
+      "healthDataId": "90cdd9e9-c42f-4713-8120-739421385602",
+      "_id": "e1006595-d76c-4dd0-b1e9-0f0172a7e25b"
+    },
+    {
+      "userId": "user-1",
+      "type": "HEART_RATE",
+      "severity": "HIGH",
+      "message": "High heart rate detected",
+      "value": 135.3,
+      "timestamp": "2026-05-08T09:53:37.367Z",
+      "healthDataId": "b72c2d14-a501-40b0-91cd-453965e7456a",
+      "_id": "c7a1830a-c033-437a-a799-69a329d519f7"
+    },
+    {
+      "userId": "user-1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 89,
+      "timestamp": "2026-05-08T09:53:39.382Z",
+      "healthDataId": "a0410c77-ec64-46d6-9d35-c1d4f7dfbf50",
+      "_id": "68986231-1abd-4f50-a094-c0e0b82b7a28"
+    },
+    {
+      "userId": "user-1",
+      "type": "TEMPERATURE",
+      "severity": "MEDIUM",
+      "message": "Elevated temperature detected",
+      "value": 38.3,
+      "timestamp": "2026-05-08T09:53:41.389Z",
+      "healthDataId": "c25ad5e2-1e18-43d6-b629-e775dea3454b",
+      "_id": "4a61c40c-b8b4-4ece-a328-42b4589df349"
+    },
+    {
+      "userId": "user-1",
+      "type": "HEART_RATE",
+      "severity": "HIGH",
+      "message": "High heart rate detected",
+      "value": 144.4,
+      "timestamp": "2026-05-08T09:53:53.433Z",
+      "healthDataId": "039c6cf0-c8ef-4da8-bdd8-4eb43dc844cb",
+      "_id": "1f461e33-362a-4e57-a65d-66aa95a0de74"
+    },
+    {
+      "userId": "user-1",
+      "type": "HEART_RATE",
+      "severity": "HIGH",
+      "message": "High heart rate detected",
+      "value": 130,
+      "timestamp": "2026-05-08T09:53:57.450Z",
+      "healthDataId": "87771c60-0fc2-47ba-ba81-f45de157a383",
+      "_id": "cb6973a0-e7e0-41fc-8aeb-50d29b857e1a"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:35:55.645Z",
+      "healthDataId": "1fe46a1e-bdd4-46a7-9221-7db684f2a74a",
+      "_id": "5f1d36f6-3fd9-425e-b629-805dc358c5ba"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:35:55.646Z",
+      "healthDataId": "0c7ad392-5420-400f-89b6-0b64935fa592",
+      "_id": "29c4621c-d93b-44a6-a1c5-dc378d27fabc"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:35:55.709Z",
+      "healthDataId": "d776de3c-1400-450a-aace-56ff7ed5bd7c",
+      "_id": "6b0fc7a9-ffaa-4dbe-817f-a9a62067105a"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:35:55.710Z",
+      "healthDataId": "a49928b4-c7cf-44c3-96b9-7c3b98d7b769",
+      "_id": "04c8ba00-592c-42d6-a5ef-191135cb00b8"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:35:55.711Z",
+      "healthDataId": "4d62a008-bbe7-4c73-8aa0-b8fcd2e841d2",
+      "_id": "31e945f7-2302-4c49-98e9-ab660edc1753"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:35:55.712Z",
+      "healthDataId": "e5fc05d5-d4b5-48d5-8cc5-738aad09fef4",
+      "_id": "5bd0920d-3007-4431-a60c-ca1c43dada32"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:35:56.748Z",
+      "healthDataId": "46e13d1b-acca-40be-b89b-c71a609ec81c",
+      "_id": "a6093801-18fd-4155-ad96-928264d7490e"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:35:56.751Z",
+      "healthDataId": "57c2dda7-0411-4315-b677-64c40cd2261e",
+      "_id": "a1f7eed2-6444-4451-92db-f7cb5f500da6"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:35:56.750Z",
+      "healthDataId": "5b76524d-2cac-432e-8b06-7ffc210f402d",
+      "_id": "bb4b62a3-9029-4e25-87d1-651f915e42c1"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:35:56.752Z",
+      "healthDataId": "c1f4754f-40e0-431f-a86c-ee42ce6f4d7d",
+      "_id": "8bc28a30-f3f3-4efb-9f0d-8088c8a76b6a"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:35:57.708Z",
+      "healthDataId": "fc372849-34d0-438c-9095-129e5669c9de",
+      "_id": "da5901ea-d54a-4b1e-bca6-5a0fe5fe02b5"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:35:57.707Z",
+      "healthDataId": "48afb8da-1070-4761-8e6e-e8e86dc2fe2a",
+      "_id": "c9a61100-2021-4fe4-8f3e-501f3b44112f"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:35:57.710Z",
+      "healthDataId": "62ab8224-837f-4e10-8194-a68d3d8e1a6b",
+      "_id": "ad1403a0-6e48-4aa6-b290-5c506171cedd"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:35:57.709Z",
+      "healthDataId": "13529ba5-a5c9-478b-92bf-2a46beaff110",
+      "_id": "b7027bdc-ad64-4dfa-9766-53e4fd3722de"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:35:58.715Z",
+      "healthDataId": "ca06fe81-f131-4db3-bf1d-f3de70b70cb8",
+      "_id": "8897c45a-787c-49dc-a1ef-f669fc4bc074"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:35:58.717Z",
+      "healthDataId": "0ef9d7cd-64f5-4d5f-afe7-a8d778a7f48e",
+      "_id": "9dd7241a-b404-4331-9438-75dfc944b700"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:35:58.716Z",
+      "healthDataId": "a15d36e3-8004-450b-a557-90104dfb8403",
+      "_id": "6d489410-1d1e-4c06-b622-db1f6abd4407"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:35:58.718Z",
+      "healthDataId": "ede2e4f3-5338-4d5e-9375-dabf8372b20b",
+      "_id": "ff3e4440-03ad-47a8-b0b6-2346a9646766"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:00.504Z",
+      "healthDataId": "41e31624-7711-4638-b2be-2e0998aa1382",
+      "_id": "c82a56ac-5220-48a2-b4c1-e59cb7f79166"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:00.504Z",
+      "healthDataId": "ac71cb44-1375-45d7-9d81-50b9d5fd73dd",
+      "_id": "01a6f53e-1d46-4453-9648-0b91349436e8"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:05.558Z",
+      "healthDataId": "b4c6dae2-4751-4659-9941-ff392d89fd96",
+      "_id": "41dd1cb5-309e-43bc-9760-e42c0c6d8421"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:05.557Z",
+      "healthDataId": "a53b7c78-af9b-4366-be12-89160e48cce2",
+      "_id": "9bda5983-cb5f-48da-8915-bc19a7d9a3c2"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:09.994Z",
+      "healthDataId": "1927d846-1bb9-46dd-b0f2-f380b1f3a431",
+      "_id": "8506792f-24f9-4a70-9b41-905c1ffafa4d"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:09.993Z",
+      "healthDataId": "15285e6f-1100-48c0-8c30-7092807df2b7",
+      "_id": "3852c1ce-4d5c-4f05-9961-487c8b6f7d06"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:09.992Z",
+      "healthDataId": "d9ac14c6-1c7d-4f63-a923-e3061f7e62ff",
+      "_id": "92af635b-a845-4314-8ded-5ba5bec74277"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:09.995Z",
+      "healthDataId": "5d69f232-6578-4860-8df7-f1e36a371bb6",
+      "_id": "2549cf4c-0ca3-4d84-adf6-b03470b9b66b"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:10.498Z",
+      "healthDataId": "9e417e96-6eba-4304-9fff-0c1a9bbc59fd",
+      "_id": "01cb49de-f827-4f74-b69e-67762ae1b1dd"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:10.499Z",
+      "healthDataId": "ad3c8cc5-b8c1-4157-bd50-c25ab8615309",
+      "_id": "caafb39a-a931-45d2-bd66-41f3b6da1c9e"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:10.919Z",
+      "healthDataId": "35e2eed7-240d-4478-810c-6852f5ac72a2",
+      "_id": "25d4b518-cc0d-4e7f-8863-5e9930353bac"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:10.919Z",
+      "healthDataId": "3e5476e1-a3d9-445a-883f-7ce1921ce230",
+      "_id": "ae536a1d-8dc2-4e7d-aee5-97fac5fe704d"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:10.920Z",
+      "healthDataId": "ac6d2ddd-0046-4e3e-be3d-c0ad17ad60b9",
+      "_id": "676e669c-e1c4-494d-88cf-a2b373cb4fca"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:10.921Z",
+      "healthDataId": "e8776a9a-fd94-44c5-a4f1-25c50be61d6d",
+      "_id": "cf08dfca-d786-4f45-b9c5-4761475e6f15"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:11.926Z",
+      "healthDataId": "5d834d10-7689-442e-b2b9-fb39cf13a80f",
+      "_id": "ba61be04-7e33-4777-934e-414be670e5d6"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:11.927Z",
+      "healthDataId": "ace7d4af-49a2-4d85-8b68-bf04970ade7b",
+      "_id": "7161e1df-3d4b-44f1-becf-04df366e575e"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:11.928Z",
+      "healthDataId": "bbb3ac61-d84c-40c5-b939-bed2bbf49207",
+      "_id": "591f74ac-b70e-4955-9152-56f93fc48f00"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:11.928Z",
+      "healthDataId": "55d40b2b-ebe3-47d5-932f-4b5d4dbc1adc",
+      "_id": "50f1ab66-caf7-4aad-a6df-3aa97003290f"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:12.966Z",
+      "healthDataId": "2556b21b-e6f4-4760-a064-8cb4496dea25",
+      "_id": "a3c6fc05-10f9-4519-9ed3-a982c9b23894"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:12.968Z",
+      "healthDataId": "299efd46-0ba1-417f-b596-9472a2d64f93",
+      "_id": "82227a56-5575-41a7-b266-964b633d40a7"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:12.968Z",
+      "healthDataId": "35510bc4-6928-426e-90d2-d9e1e9099270",
+      "_id": "26c93030-c5e4-4613-a042-f5070be9fc58"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:12.969Z",
+      "healthDataId": "35f96edd-c295-4fb5-bc0f-d2a270affdc4",
+      "_id": "7dd8d884-415d-43b3-acaa-10940a6d9d62"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:13.941Z",
+      "healthDataId": "c35f93f9-c931-4ced-87ac-385a6e442897",
+      "_id": "84f9312c-8b2e-49dd-9f0c-5246d253d813"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:13.942Z",
+      "healthDataId": "b1c91d2f-8f30-47ac-a647-9dd42b4a6783",
+      "_id": "ea5a59d0-de78-414f-af4e-904e1a658dcb"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:13.943Z",
+      "healthDataId": "c2dba343-3fc1-4342-81e0-5945c5dcae8a",
+      "_id": "c5aeb882-761d-4560-9c01-47b557c9b841"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:13.943Z",
+      "healthDataId": "803f070e-8820-4a63-9fb0-8445a05f9929",
+      "_id": "b0a959e0-1d8f-47be-a156-2c840af718b6"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:14.949Z",
+      "healthDataId": "51218801-3939-4669-91d4-eae8d0f01b4c",
+      "_id": "caa42041-c4c5-49be-8765-75d24281eff7"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:14.949Z",
+      "healthDataId": "e82cf9ff-553b-4218-9dfc-9c0dd395ed70",
+      "_id": "bf0f5c63-856a-4cfc-8612-df207747054b"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:14.950Z",
+      "healthDataId": "17ab1256-99f8-420c-948a-201352e160d1",
+      "_id": "b13a4fa4-4272-4450-b492-cd4ac979b6bf"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:14.951Z",
+      "healthDataId": "02e943a5-39ac-48d9-8281-115711546257",
+      "_id": "01e54334-6e4c-4539-add9-f2ad8f0caa65"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:15.502Z",
+      "healthDataId": "0fadb086-c883-4931-ae9d-575849624718",
+      "_id": "eae5ea16-07fc-4039-8176-da554907b19f"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:15.502Z",
+      "healthDataId": "ef541924-d7c4-4841-b5f1-ec88fcf5d881",
+      "_id": "aefcdcb9-ce0a-49c3-8dd5-e5d1a3355dc0"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:15.924Z",
+      "healthDataId": "dcc5ca4e-1544-4f2f-8a55-db84ba39de76",
+      "_id": "f35ecc61-2dbb-45be-9dce-764fa74bb2ff"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:15.925Z",
+      "healthDataId": "5f9d372c-b94f-40d3-8190-237308e17ec0",
+      "_id": "55d4eb85-b2a3-4a5f-9590-f20809bbedfb"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:15.925Z",
+      "healthDataId": "0c598e4e-b320-40d9-a7b1-637d43920dfd",
+      "_id": "e74e9293-059a-49e7-9beb-1ad9ee1cdb73"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:15.926Z",
+      "healthDataId": "fc8f2b12-7e33-4ecb-bd84-d942ee57883e",
+      "_id": "323aa3c2-315e-4205-a8df-a995171232a1"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:16.964Z",
+      "healthDataId": "991c69c7-baa4-4e73-825f-05be042aba54",
+      "_id": "b47c382d-3b24-455e-b666-533289b949b3"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:16.966Z",
+      "healthDataId": "2db1c0a1-eec4-4f73-aac1-5c3ac3cfc9fc",
+      "_id": "aa357e9e-fc1f-4bce-a855-c923079cfc02"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:16.967Z",
+      "healthDataId": "f68a0d39-74f1-4817-84b2-d5a5f474d004",
+      "_id": "943db3d9-035d-4a03-ae6c-a05677e7dc26"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:16.967Z",
+      "healthDataId": "fd01f4fe-9846-4b3d-9d30-40727791dba6",
+      "_id": "f2760ad4-7e72-4b4d-96ad-be4b602ee6f6"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:17.939Z",
+      "healthDataId": "f38e641e-f802-4411-bd8d-b9a2c0d8baee",
+      "_id": "0185f83a-676c-4d1d-b723-1288f02ae1a4"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:17.940Z",
+      "healthDataId": "cb436294-4608-4777-80ac-46f93348bb77",
+      "_id": "06f623f2-d579-4774-a6f2-40959bdb41c3"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:17.939Z",
+      "healthDataId": "582485f2-ec59-4eb5-b4c5-268cb8a29f8e",
+      "_id": "549248ef-5b59-4ba4-b474-03a76d19d88d"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:17.941Z",
+      "healthDataId": "62c0c540-4a3f-4047-9e06-5567d8c821ab",
+      "_id": "48d2ed59-7a7b-457d-be63-d1f7cde25655"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:18.914Z",
+      "healthDataId": "65a6594e-cf6a-4681-826d-fea38a605b70",
+      "_id": "44d6b759-a580-4fc3-9e95-edf9f010bf0f"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:18.916Z",
+      "healthDataId": "7a009dab-2255-48ee-a644-d5f3140ed433",
+      "_id": "b4a1adbf-aa84-442a-bf0d-5dc448524c25"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:18.916Z",
+      "healthDataId": "5b1f922e-6938-4d50-a041-1510887f6bc2",
+      "_id": "0d9edb47-a66b-4e2d-a102-5bafc83e1cbe"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:18.917Z",
+      "healthDataId": "639e6e79-73d5-4bae-b5a9-0f24d99188dc",
+      "_id": "bc997332-64c4-479c-b1a6-d9445ddb6674"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:19.954Z",
+      "healthDataId": "1bef5b8e-7d60-47cd-8908-351f96d24303",
+      "_id": "c3a7a05a-44e5-433d-b7f5-7197614e7588"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:19.955Z",
+      "healthDataId": "54dcdbe2-5d23-4601-a010-4190343f0fcb",
+      "_id": "082ddf32-33f3-413b-bd35-c7d287336280"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:19.955Z",
+      "healthDataId": "bcae1b37-495d-4b1e-9217-62e1f750527a",
+      "_id": "5d2d9671-a398-4918-83ca-e7ef4890d273"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:19.954Z",
+      "healthDataId": "1040dd8c-0a11-4a79-ab87-28db908b7e21",
+      "_id": "a290939b-3b11-426b-9e8b-f4774fa3b3e1"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:20.507Z",
+      "healthDataId": "f058459a-1a3c-4382-b833-534c5ec9fac8",
+      "_id": "a77fa7af-ce11-4d08-8519-801b25ae3e5f"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:20.508Z",
+      "healthDataId": "3ad1e4d7-5993-4e08-a798-14bc8560697e",
+      "_id": "e0988c09-e575-41a2-83f3-b5ab19910e9e"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:25.577Z",
+      "healthDataId": "47f1720f-c52c-4852-846d-723b6f982b63",
+      "_id": "9ae28791-3270-49df-9426-0b57a086f39b"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:25.578Z",
+      "healthDataId": "1a6934ce-2099-4725-b5b1-0678b4eb71ae",
+      "_id": "d6e75236-ad10-4ef1-a9e8-80df0df754da"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:30.534Z",
+      "healthDataId": "6997ffba-9bd0-4af8-a547-3adf1ae22640",
+      "_id": "114c2d67-dcb4-4793-bd42-176a25b33113"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:30.534Z",
+      "healthDataId": "6e297042-1622-4b23-a0d8-344e88e8828d",
+      "_id": "37828220-62cc-4a30-8092-6700b768a0aa"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:35.992Z",
+      "healthDataId": "97554f11-8578-4251-a31b-a1b7c71f92d1",
+      "_id": "e826c46d-5fcf-4039-847d-a6de22b4e989"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:35.992Z",
+      "healthDataId": "90a102bc-2af4-4b1f-806a-1bd57d9251ff",
+      "_id": "decc2677-0f8d-4474-9836-cb68e8866fa1"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:40.832Z",
+      "healthDataId": "e06c8d1b-222c-45ed-a051-db4474375dce",
+      "_id": "9565e2b8-8e26-4423-a86a-086363c84ce1"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:40.833Z",
+      "healthDataId": "3311bc25-8ddc-42fc-beeb-266a8b438ef3",
+      "_id": "21504e0b-c16b-4a91-b290-c05ea7bf7f3b"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:45.669Z",
+      "healthDataId": "e330bcfb-5e36-4c4d-82a0-15be8a66ee5e",
+      "_id": "187cdf93-078b-4176-9bb9-094d39180edd"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:45.670Z",
+      "healthDataId": "4ee02d78-c420-466e-969b-178dc6f4a301",
+      "_id": "fd6c2f8d-78dc-4da3-a8a2-caae3cdfdbf8"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:50.957Z",
+      "healthDataId": "98d4bde7-6f11-4f5d-bab8-98f03a49ea16",
+      "_id": "e38c533a-3773-4637-982c-0fbdde712e4b"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:50.958Z",
+      "healthDataId": "4dfa9571-3453-4b0f-8c41-50cf0bd91389",
+      "_id": "ebbe8d43-e811-4686-9d5f-cb3b29d809e4"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:55.682Z",
+      "healthDataId": "696a2453-0160-4bfe-88c9-efa65453033f",
+      "_id": "6840b039-946a-4c60-ac04-88352d696652"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:36:55.683Z",
+      "healthDataId": "7706706c-bd94-4614-acb9-0dce20158492",
+      "_id": "15de4ce3-333e-4292-aa13-1cd149a792aa"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:01.082Z",
+      "healthDataId": "b197382e-868e-4193-9d3e-95fa55951a65",
+      "_id": "65779eee-b936-421e-b8d2-f2f27373338a"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:01.082Z",
+      "healthDataId": "0e8d8fb0-3c51-46dd-ac48-2ec91030da9d",
+      "_id": "4cd50a7e-5901-4fbe-9dc8-9521e97fc9f9"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:06.033Z",
+      "healthDataId": "4b6e8671-0ee4-4c25-957c-60605f3462dc",
+      "_id": "1fdb162a-a601-4c56-a9f7-bdb2a050b4e4"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:06.033Z",
+      "healthDataId": "09237023-ff10-4556-9a47-9d23fac8d9ec",
+      "_id": "e611baa7-7794-4fa0-aaac-b8ae204b88fd"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:10.871Z",
+      "healthDataId": "396536e4-6d81-4de3-805a-14fe8e9c69bb",
+      "_id": "82d6c620-d39e-447e-9fef-43bf02f27377"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:10.870Z",
+      "healthDataId": "a7df789d-dcd0-4b68-bcd7-c3eab02fe4cb",
+      "_id": "d1ae780d-7b5f-4190-acfc-d633a21fba27"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:15.707Z",
+      "healthDataId": "11c6fba0-3850-45cc-b8ee-98395da6f0c2",
+      "_id": "806161d3-8db6-48d6-81d4-d258915fa17f"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:15.708Z",
+      "healthDataId": "d9d68319-2ca3-4ec6-8e99-61cd396bd3d0",
+      "_id": "62b45f6f-ad44-4338-b356-39d850f66c10"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:21.108Z",
+      "healthDataId": "8bb6664b-8bd8-4dfb-b585-ac78af90da81",
+      "_id": "01cade70-28cc-4408-bc7d-dfb9db4c478e"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:21.107Z",
+      "healthDataId": "d6343c66-060b-4672-8311-830f5cfe62fb",
+      "_id": "dc279aac-0929-4755-b259-f254066da651"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:25.945Z",
+      "healthDataId": "5e898e29-57e9-4d1b-997f-93a429bce901",
+      "_id": "7565f7f2-49df-4ebc-aa4b-2c3b8706ede2"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:25.946Z",
+      "healthDataId": "d674a2ad-c413-4feb-abb6-187d355e73e2",
+      "_id": "0725e01e-5eca-4971-8c7a-53c1575bc669"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:31.233Z",
+      "healthDataId": "1d6c88c4-fe81-49c5-bcae-3fb272c410ae",
+      "_id": "17e0d20d-965b-4b6f-8fd1-c99dac4b4c00"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:31.234Z",
+      "healthDataId": "edc86c9e-6c6d-4889-bd79-bd863edfb325",
+      "_id": "8caac583-9332-4c22-ae9c-ce00fe04bdda"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:35.651Z",
+      "healthDataId": "f08eda99-4d37-4d4f-8c3e-efc2bb18a00a",
+      "_id": "762cc8de-032b-4079-ba1c-aba2daba5ac3"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:35.652Z",
+      "healthDataId": "f3db7bfd-eacd-4c76-b771-e8682cd61afd",
+      "_id": "cb9d3074-64dc-4c94-bf81-88790d730da2"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:40.606Z",
+      "healthDataId": "fd25a346-72c6-4ef6-bd28-682e77ce75fc",
+      "_id": "2ffe5db5-0420-470a-841c-9a8ff2db02f7"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:40.607Z",
+      "healthDataId": "fa1aa4ee-e9e4-417d-8782-7fe784e73f52",
+      "_id": "d90e37b6-6b2e-4b1a-9ece-55965910769d"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:45.745Z",
+      "healthDataId": "5a35ecd3-ee76-434f-abbd-6ac0fc213406",
+      "_id": "d96ca9ed-c684-42bb-873c-0068a849db2d"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:45.745Z",
+      "healthDataId": "81448f2f-a533-48a9-9e69-394b97ab966f",
+      "_id": "6465f393-0084-409a-a589-c9f046c28978"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:51.145Z",
+      "healthDataId": "0d66ada3-fdc1-4c52-af48-c2fb1b8be8d7",
+      "_id": "b97e9e98-99b1-43bb-9e75-85c903caa0ff"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:51.146Z",
+      "healthDataId": "ab126b41-5384-46b2-9072-a56dfbdfd5ce",
+      "_id": "ef70a7f3-f0b5-4fea-b88e-3f95b0e989e3"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:56.096Z",
+      "healthDataId": "45c0f4ce-2a46-4006-bf3f-b1aa2e760de8",
+      "_id": "2091a644-25b1-46d1-be9d-49b32f5d0570"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:37:56.097Z",
+      "healthDataId": "11a65c86-4576-4066-97cc-a1351c2df46a",
+      "_id": "84a95cc7-4ce6-4a0d-b10a-0a5e0a71df6f"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:00.821Z",
+      "healthDataId": "04229651-add6-415c-aa05-20a9647ef620",
+      "_id": "ee250c35-c102-4e43-b7ee-4444bfee8820"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:00.821Z",
+      "healthDataId": "8b184f66-cece-4915-9394-f57dcafaf1a9",
+      "_id": "1398be48-3956-4766-8021-29cccd8d64bb"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:05.771Z",
+      "healthDataId": "283cf2fc-a5ce-43d3-8880-199d0bb1f24a",
+      "_id": "50a501b9-013f-4f34-8d95-47be2db356fc"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:05.772Z",
+      "healthDataId": "7c9b9dcd-308e-4f29-bde5-2e620b4945d5",
+      "_id": "a46ce9c0-0712-407c-a561-11a2a9eb18f4"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:11.173Z",
+      "healthDataId": "f5eb8e40-660e-4f9c-ab25-00fbfa448112",
+      "_id": "4e917ca1-6636-43fc-abee-c7b2ffa29dab"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:11.174Z",
+      "healthDataId": "8317eda4-542f-43e5-9968-3021534c652d",
+      "_id": "4e46d3e5-07ac-42e1-84b9-30e0ce2654f0"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:11.790Z",
+      "healthDataId": "594e00d0-384b-4def-a1cd-9ad2c07ee19a",
+      "_id": "56d145a3-8a5f-450e-a6e4-4bcb148733ec"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:11.790Z",
+      "healthDataId": "311a98d2-062e-4f69-82d1-eff8c04fbe6e",
+      "_id": "8b72d5c8-d107-449d-ae95-5010692fd77b"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:11.791Z",
+      "healthDataId": "21b7528e-4879-4acc-8268-9379d3ceec76",
+      "_id": "3cb5275b-3d46-40f6-a5b2-ce163e07502d"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:11.792Z",
+      "healthDataId": "a51f2135-ac66-46ff-8594-37290caf4e00",
+      "_id": "94bd07c7-38f1-4956-a682-eff5f6e09afe"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:12.782Z",
+      "healthDataId": "ca54728b-b28d-4546-b5ea-c8b926abbb42",
+      "_id": "1563bfe5-114a-486c-8a38-e69fd862c7d8"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:12.782Z",
+      "healthDataId": "91453646-0d63-400a-a615-16587bc274af",
+      "_id": "8b27bbe8-c5a3-44fa-94c0-1956202f9765"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:12.783Z",
+      "healthDataId": "d49fa0ee-3763-441d-8c79-d5e56228d470",
+      "_id": "3f83cbba-ebb0-45b9-a715-9b8a838b9bf1"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:12.783Z",
+      "healthDataId": "ef522c21-e963-4f62-b2fe-aad76a26b401",
+      "_id": "b43bed81-2677-4f87-8f0d-cdd968dc76b4"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:13.774Z",
+      "healthDataId": "2a19913a-6157-4a26-85ea-819f91634d56",
+      "_id": "62e626a7-1509-461f-b4a7-1c0c348fd505"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:13.774Z",
+      "healthDataId": "45321ba8-5d9e-4455-b5e1-1938158b888f",
+      "_id": "c8632188-0ad6-467b-8d15-0e8de2a32289"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:13.773Z",
+      "healthDataId": "b8c16b30-4c58-4b7c-89b9-51865fc7f44a",
+      "_id": "9ad043ae-8607-4e09-8a9f-37a13b57df82"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:13.775Z",
+      "healthDataId": "652edf30-8048-4887-82c4-f30872894f9b",
+      "_id": "67765f67-fa5b-47e5-b00e-e586d382af0a"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:14.813Z",
+      "healthDataId": "1bcb3c0d-3a0a-4078-b72a-476eec6d3564",
+      "_id": "d0180b68-a079-45a5-a808-060cb72eaea1"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:14.812Z",
+      "healthDataId": "136881ec-11df-48c2-b80f-5692f723b292",
+      "_id": "3bfe1944-8905-4cac-8784-5aeeba3f1b39"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:14.814Z",
+      "healthDataId": "45153021-fd18-4233-8c6f-822316c2b702",
+      "_id": "0adc536a-0588-4282-8086-dfe98a8efe58"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:14.814Z",
+      "healthDataId": "3c52a42f-57a3-4f95-aed6-a0c92f7b5930",
+      "_id": "e1e28bda-637e-424e-89aa-43866edc7db5"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:15.658Z",
+      "healthDataId": "3d7c41e1-34d3-40c8-8f58-ff4695a0b70a",
+      "_id": "84ed654d-2e97-4a92-8643-f34627912f5b"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:15.659Z",
+      "healthDataId": "4a41d673-0319-4bc4-90fd-2c13eee40595",
+      "_id": "cbced2f3-6293-4b33-84e5-4033810255b7"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:15.771Z",
+      "healthDataId": "5d06228d-a2c2-4932-bd8e-d108da61401b",
+      "_id": "2656b5f4-719c-4e3c-8bf1-0ec3141bcb91"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:15.772Z",
+      "healthDataId": "0260b6f6-4e8a-4c57-b277-dbcc7d4be53e",
+      "_id": "3ed54390-a13c-4671-8ebb-c43cb0e5447a"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:15.773Z",
+      "healthDataId": "255109b1-a27e-4325-abaa-3b5df7823ac2",
+      "_id": "fc07866e-610e-4f8d-83ff-b8c7c7ea03b9"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:15.773Z",
+      "healthDataId": "10cd6f2a-7466-4eec-95db-8cd42604f6e2",
+      "_id": "c0242383-72e8-4bac-9762-47aee557444e"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:16.779Z",
+      "healthDataId": "d032d2c9-b036-4346-8f33-898a20bb3005",
+      "_id": "586e0f27-e149-4994-b49a-f34182a28d02"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:16.780Z",
+      "healthDataId": "b4d38f48-061b-4b48-9472-27be936ea209",
+      "_id": "8ab1fc6a-8457-4f26-b51c-6298bfd31720"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:16.780Z",
+      "healthDataId": "f7cf309b-9c80-4c2d-a07b-e4a9c39f1fa3",
+      "_id": "7a53cc47-fe6f-4053-ad31-8f7b3eb563d2"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:16.781Z",
+      "healthDataId": "f520ec4b-3bfd-43c8-90f6-68b35814fefa",
+      "_id": "f8e39550-897d-4690-8137-20780fc58591"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:17.819Z",
+      "healthDataId": "eeb836ac-634d-409c-b6bb-085c0536d978",
+      "_id": "5b515332-f3e9-41c6-9358-cffd0f4807c4"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:17.820Z",
+      "healthDataId": "4e745006-1398-4990-9780-c1d10ebd426a",
+      "_id": "f9b2cfc2-d8d8-423f-8e88-9acd9222f050"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:17.821Z",
+      "healthDataId": "64b56f4a-38b5-4beb-84f8-e877a30776ac",
+      "_id": "859c804e-9624-4c62-b95e-cfc14c78278e"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:17.821Z",
+      "healthDataId": "0e90d870-d71a-44b8-992e-90e7645000d1",
+      "_id": "002ae5b5-7c4a-4a93-9211-eb4ba791ef46"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:18.778Z",
+      "healthDataId": "e4bca4db-ee5d-4bd1-82e0-4f17979f8043",
+      "_id": "29a2b929-2dcd-48d8-88e6-077159db88e3"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:18.779Z",
+      "healthDataId": "d1d826e3-5a78-4cc2-83bd-d97064cb7704",
+      "_id": "e80ffd8c-3bd3-4628-9538-0a7e2381cdcb"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:18.779Z",
+      "healthDataId": "99bf1fe1-7146-4e6f-8ef9-bb60cfa5aee5",
+      "_id": "71574b38-65b2-4b40-9122-a826c7185238"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:18.780Z",
+      "healthDataId": "1647491a-3560-4b82-a770-f77a7142bb8d",
+      "_id": "83ed5fc7-93cd-4b92-a332-41fc09a6cc62"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:19.787Z",
+      "healthDataId": "9f1153ff-cd95-4b4b-82db-2fad635116bc",
+      "_id": "06fdd24f-75e0-46d9-8447-2cbc37595c16"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:19.786Z",
+      "healthDataId": "5b01a75d-cfe1-4738-8846-572ebfabe32a",
+      "_id": "27f2c3ec-f34a-4e0a-a094-c62f9b918030"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:19.785Z",
+      "healthDataId": "00379ef0-4335-47a2-866c-25fcad9c41dd",
+      "_id": "88e79572-97bb-4ac0-ac24-cf3d679720d4"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:19.788Z",
+      "healthDataId": "4182c710-7023-49f1-be9d-f5ffd169deac",
+      "_id": "45f0e9fc-4ff7-4b1d-8dee-25eac67cd221"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:20.663Z",
+      "healthDataId": "70da46b9-af63-4f09-ae84-e41221710aec",
+      "_id": "80355d03-9fe2-4016-84cf-166efd74f891"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:20.664Z",
+      "healthDataId": "da8691aa-51a6-4a29-a42c-abee3479e5f3",
+      "_id": "734b07a1-240e-4895-b018-055b0608c08e"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:20.792Z",
+      "healthDataId": "dc90ebfd-fd28-4cde-ad3d-4701d2be4722",
+      "_id": "cd77f385-df8d-4871-9f88-9a6d39a21360"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:20.793Z",
+      "healthDataId": "495564b9-98b1-42e2-a24f-44711f7960bd",
+      "_id": "cd85fb19-6967-4e8f-ae54-65af6302b924"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:20.794Z",
+      "healthDataId": "f9e7590f-3999-45c0-9547-634583786f01",
+      "_id": "b239d4f1-888c-495a-8dbc-a06d53f0b669"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:20.794Z",
+      "healthDataId": "5f041f5d-ccc3-4b7a-a069-2251f4ca7052",
+      "_id": "e7832de5-291c-406c-90d1-fff8caa9cab1"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:21.785Z",
+      "healthDataId": "13a99228-f250-449f-884a-a0b73189dd73",
+      "_id": "4513803b-944e-4200-aace-0be83db325c3"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:21.784Z",
+      "healthDataId": "703baeac-6cc8-4a7b-b321-03f48db60616",
+      "_id": "949a0d00-c4a1-4e6a-8e47-7061ddbfecd5"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:21.787Z",
+      "healthDataId": "e78d6b3d-1127-4fb5-ab20-6acc58ff8f58",
+      "_id": "7fc1501e-e66f-41c2-a4aa-535a526dceb8"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:21.786Z",
+      "healthDataId": "a43adf3b-aa12-4043-a0b1-ef4f13224d5b",
+      "_id": "a4192471-ed86-4a1d-a5a5-9ba6dcd3dbfc"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:22.775Z",
+      "healthDataId": "d99fe1c9-80d2-4feb-9406-1fda1048966d",
+      "_id": "330ad741-f1d4-433e-8a43-8e2ae30c6485"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:22.775Z",
+      "healthDataId": "d4464faa-8860-40ba-bfc5-c155ae41e4e2",
+      "_id": "a67b2fd3-872d-489b-8934-13953b7eec7d"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:22.776Z",
+      "healthDataId": "7dcb1f62-a183-4a2f-8398-8b5a1def8ff1",
+      "_id": "5427c139-eb78-40f0-b072-9d89159666ed"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:22.777Z",
+      "healthDataId": "7b67aea3-713d-4468-9b74-1752c712b3d3",
+      "_id": "185e0c7e-b7fa-4a8d-8f4e-c520afd504a6"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:23.782Z",
+      "healthDataId": "811efe78-38d0-4e43-adc4-6c9110a543b2",
+      "_id": "b2b75663-2143-4636-8463-ac8b7c0be20a"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:23.783Z",
+      "healthDataId": "2cfedf0f-f712-44ee-b0a0-e9dcf533e61a",
+      "_id": "a91e2fc4-c519-4c64-8e94-b79edc9da636"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:23.784Z",
+      "healthDataId": "89cb1cfe-9d57-4da2-9557-b7f1409390f5",
+      "_id": "cd536c05-7da9-4ce3-8a52-48cf3ca5b73b"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:23.784Z",
+      "healthDataId": "93ad162d-f605-417b-8133-e5866a1abba6",
+      "_id": "6096eca3-589e-4384-b45f-91a63d57d6eb"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:24.775Z",
+      "healthDataId": "6479be54-804f-4ea3-9ec9-d86addf5efc5",
+      "_id": "496ee532-96f2-4d28-899d-036e58284835"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:24.775Z",
+      "healthDataId": "f11728b9-9b5b-4ac5-9c5c-2ee2b534e0bf",
+      "_id": "8a363232-4453-4674-83aa-41a4383684bc"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:24.776Z",
+      "healthDataId": "b2a465ae-9ac9-4a67-856a-201941349c48",
+      "_id": "d68280df-bb57-43bc-bce1-1b1d4e7c7209"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:24.777Z",
+      "healthDataId": "069c733f-ed26-406c-988b-88b49be50052",
+      "_id": "1d307832-c29b-4bdb-ac92-a81508b6972d"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:25.668Z",
+      "healthDataId": "2c25b331-dfc7-44be-b7c1-3401f7ebf367",
+      "_id": "2f329ec0-e03d-43d4-bd48-362661a278a0"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:25.669Z",
+      "healthDataId": "cce82514-8472-4b80-977a-bcf2a86fbfec",
+      "_id": "b21b82e0-fb8d-4114-bf24-e1592e9c865e"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:25.781Z",
+      "healthDataId": "76a883d5-8509-4ed5-967e-950d8e84dc27",
+      "_id": "d4637327-bb4c-41a1-a29e-5d3c6a00aefc"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:25.782Z",
+      "healthDataId": "001ee427-b4fb-4e56-9504-73a0ef988c45",
+      "_id": "5c5ea6a0-dc8c-40c6-b8a5-fb979d371c46"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:25.782Z",
+      "healthDataId": "a9ab60e3-5b92-41ba-9b1d-d1f482bc040c",
+      "_id": "04ff263e-f9ca-414f-91e5-f8522a718256"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:25.783Z",
+      "healthDataId": "94cb9e2a-5d16-45d4-8e3e-2f4b51fdb887",
+      "_id": "59ea4214-8895-462e-a244-437c2c116873"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:26.773Z",
+      "healthDataId": "9c58bcdf-bf99-4e66-b974-124892d7967f",
+      "_id": "c31bba25-8264-48ba-b06c-07d8502a55a1"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:26.773Z",
+      "healthDataId": "45abb7e2-b7f6-4240-a706-8a190767b39d",
+      "_id": "a7f21981-b801-4736-92a7-af518398c535"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:26.774Z",
+      "healthDataId": "60075e9a-a8a1-47a3-8946-1216d0d6d155",
+      "_id": "6411bb6a-3697-4827-b33a-1edbcc707f3d"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:26.774Z",
+      "healthDataId": "8891f328-1962-406d-bba4-30172075fefc",
+      "_id": "56500f84-6ba3-4285-8f4e-c1d48137d595"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:27.780Z",
+      "healthDataId": "54e4a15e-7883-4fc2-8103-36fc147f7633",
+      "_id": "e7d56209-ec06-4e85-99ba-cb6885d995ed"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:27.781Z",
+      "healthDataId": "436b8082-5ee2-4c58-8ed9-6ea636e42194",
+      "_id": "e6d88a65-cc33-46d9-b312-b9aa403875d1"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:27.782Z",
+      "healthDataId": "235975ed-fdea-4966-a0ae-1f4053ce17f5",
+      "_id": "fd07a409-c9ed-4a6e-b664-1ef18525c9bb"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:27.782Z",
+      "healthDataId": "33146890-ab68-4d73-b01b-7046db518743",
+      "_id": "6f7b7474-bd1e-4882-8831-d3e813353773"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:30.706Z",
+      "healthDataId": "871f47d9-d3b7-4e34-ba8b-27f40bc41d20",
+      "_id": "5f6de766-911c-43a3-8838-2556bc56d381"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:30.707Z",
+      "healthDataId": "22a1752c-870b-469c-a508-0167e63f6eeb",
+      "_id": "30227675-70d2-41d7-b232-42ee23c16756"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:35.678Z",
+      "healthDataId": "9bea451e-62de-4300-b43e-7cdc2b3681f0",
+      "_id": "8b35f7dc-a89a-437b-bcbc-8f8762960307"
+    },
+    {
+      "userId": "user1",
+      "type": "SPO2",
+      "severity": "HIGH",
+      "message": "Low SpO2 detected",
+      "value": 86,
+      "timestamp": "2026-05-10T11:38:35.679Z",
+      "healthDataId": "3aae716d-d754-48ea-90c5-600976ea2889",
+      "_id": "d02d6aba-c972-4173-9d86-a0d797aa0fb0"
+    }
+  ],
+  "users": [
+    {
+      "_id": "8f837df0-aa61-4613-bc91-ee1aaf6f0099",
+      "name": "Harsh",
+      "email": "harsh@gmail.com",
+      "passwordHash": "$2a$12$38NOKdujzxHfpQQFVir0u.a2nNAzA7VKOPs1ol2zLck4xsmFw.Px2",
+      "createdAt": "2026-05-09T16:55:10.911Z",
+      "lastLoginAt": "2026-05-10T10:52:28.030Z"
+    }
+  ],
+  "connections": [
+    {
+      "deviceId": "cb560012a503",
+      "status": "CONNECTED",
+      "reason": "connected",
+      "timestamp": "2026-05-10T10:20:57.065Z",
+      "userId": "user1",
+      "_id": "edff85a3-f8c9-4242-80e4-cc25d44d4f3b"
+    },
+    {
+      "deviceId": "2b77b002f38f",
+      "status": "DISCONNECTED",
+      "reason": "disconnect",
+      "timestamp": "2026-05-10T10:37:49.847Z",
+      "userId": "user1",
+      "_id": "a5df82b4-3ad2-406a-ba3d-5c321635f7db"
+    },
+    {
+      "deviceId": "2b77b002f38f",
+      "status": "ERROR",
+      "reason": null,
+      "timestamp": "2026-05-10T10:37:49.951Z",
+      "userId": "user1",
+      "_id": "1ef8a5c9-b6bd-4ef7-94d3-347d5fd68ec3"
+    },
+    {
+      "deviceId": "2b77b002f38f",
+      "status": "ERROR",
+      "reason": null,
+      "timestamp": "2026-05-10T10:37:53.597Z",
+      "userId": "user1",
+      "_id": "61eeb8a8-7cab-4984-9243-f82dc9d7b7e3"
+    },
+    {
+      "deviceId": "2b77b002f38f",
+      "status": "ERROR",
+      "reason": null,
+      "timestamp": "2026-05-10T10:37:56.664Z",
+      "userId": "user1",
+      "_id": "fdd5d185-b8d8-4be2-80a9-e1e2bbdcfc38"
+    },
+    {
+      "deviceId": "2b77b002f38f",
+      "status": "ERROR",
+      "reason": null,
+      "timestamp": "2026-05-10T10:37:59.877Z",
+      "userId": "user1",
+      "_id": "0c078c2d-6d4d-43cc-878c-c67f2473efa7"
+    },
+    {
+      "deviceId": "2b77b002f38f",
+      "status": "ERROR",
+      "reason": null,
+      "timestamp": "2026-05-10T10:38:03.136Z",
+      "userId": "user1",
+      "_id": "170c6ac4-d1a0-45fc-9234-ca76e818328f"
+    },
+    {
+      "deviceId": "2b77b002f38f",
+      "status": "ERROR",
+      "reason": null,
+      "timestamp": "2026-05-10T10:38:06.227Z",
+      "userId": "user1",
+      "_id": "b6e3f322-149b-476c-bb51-9f8e994e90f7"
+    },
+    {
+      "deviceId": "cb560012a503",
+      "status": "CONNECTED",
+      "reason": "connected",
+      "timestamp": "2026-05-10T10:41:34.161Z",
+      "userId": "user1",
+      "_id": "33aa9ac1-2586-4a57-be5e-02d21243f59a"
+    },
+    {
+      "deviceId": "cb560012a503",
+      "status": "DISCONNECTED",
+      "reason": "disconnect",
+      "timestamp": "2026-05-10T10:48:02.802Z",
+      "userId": "user1",
+      "_id": "9966e829-988b-4ab2-853d-65ac3bb2926e"
+    },
+    {
+      "deviceId": "cb560012a503",
+      "status": "CONNECTED",
+      "reason": "connected",
+      "timestamp": "2026-05-10T10:53:25.503Z",
+      "userId": "user1",
+      "_id": "a7e790d2-ccb5-46f8-9829-328ec715d8f0"
+    },
+    {
+      "deviceId": "cb560012a503",
+      "status": "DISCONNECTED",
+      "reason": "disconnect",
+      "timestamp": "2026-05-10T11:08:28.095Z",
+      "userId": "user1",
+      "_id": "89a21d71-8e00-4b7e-acdf-21254b3141ef"
+    },
+    {
+      "deviceId": "cb560012a503",
+      "status": "CONNECTED",
+      "reason": "connected",
+      "timestamp": "2026-05-10T11:09:41.710Z",
+      "userId": "user1",
+      "_id": "cc57e988-c727-4dcc-8233-7dbf422a25fa"
+    },
+    {
+      "deviceId": "cb560012a503",
+      "status": "DISCONNECTED",
+      "reason": "disconnect",
+      "timestamp": "2026-05-10T11:12:29.328Z",
+      "userId": "user1",
+      "_id": "9d72e198-4a35-455a-b666-8f26a5651d0f"
+    },
+    {
+      "deviceId": "cb560012a503",
+      "status": "CONNECTED",
+      "reason": "connected",
+      "timestamp": "2026-05-10T11:19:29.812Z",
+      "userId": "user1",
+      "_id": "31d13e86-836c-4cc9-b20d-14da8ac36d8d"
+    },
+    {
+      "deviceId": "cb560012a503",
+      "status": "DISCONNECTED",
+      "reason": "disconnect",
+      "timestamp": "2026-05-10T11:19:34.820Z",
+      "userId": "user1",
+      "_id": "b5cfd589-8a8f-43a0-8f80-21a765ec5c90"
+    },
+    {
+      "deviceId": "cb560012a503",
+      "status": "CONNECTED",
+      "reason": "connected",
+      "timestamp": "2026-05-10T11:19:41.856Z",
+      "userId": "user1",
+      "_id": "97c0bc6e-4c30-4800-b6ea-0ddf53a6bc00"
+    },
+    {
+      "deviceId": "cb560012a503",
+      "status": "DISCONNECTED",
+      "reason": "disconnect",
+      "timestamp": "2026-05-10T11:20:25.734Z",
+      "userId": "user1",
+      "_id": "7824a085-cc52-4706-b791-1b6e5539ca12"
+    },
+    {
+      "deviceId": "cb560012a503",
+      "status": "DISCONNECTED",
+      "reason": "disconnect",
+      "timestamp": "2026-05-10T11:20:25.733Z",
+      "userId": "user1",
+      "_id": "38e8e53a-9263-4251-a02a-1143ff876ae7"
+    },
+    {
+      "deviceId": "cb560012a503",
+      "status": "CONNECTED",
+      "reason": "connected",
+      "timestamp": "2026-05-10T11:20:31.174Z",
+      "userId": "user1",
+      "_id": "e7cdedfd-794f-4dac-805d-a55e07a82206"
+    },
+    {
+      "deviceId": "cb560012a503",
+      "status": "DISCONNECTED",
+      "reason": "disconnect",
+      "timestamp": "2026-05-10T11:34:28.213Z",
+      "userId": "user1",
+      "_id": "1f971526-65d2-45af-9b3f-77e4807e602b"
+    },
+    {
+      "deviceId": "cb560012a503",
+      "status": "DISCONNECTED",
+      "reason": "disconnect",
+      "timestamp": "2026-05-10T11:34:28.212Z",
+      "userId": "user1",
+      "_id": "e86b6659-1b90-456a-a87e-7126448343c6"
+    },
+    {
+      "deviceId": "cb560012a503",
+      "status": "DISCONNECTED",
+      "reason": "disconnect",
+      "timestamp": "2026-05-10T11:34:28.214Z",
+      "userId": "user1",
+      "_id": "0c4a38c3-09e4-4836-a3a1-84c3513bd32a"
+    },
+    {
+      "deviceId": "cb560012a503",
+      "status": "CONNECTED",
+      "reason": "connected",
+      "timestamp": "2026-05-10T11:35:01.866Z",
+      "userId": "user1",
+      "_id": "53c1fb65-a413-45dd-b2d3-c9d91ef637ee"
+    },
+    {
+      "deviceId": "cb560012a503",
+      "status": "DISCONNECTED",
+      "reason": "disconnect",
+      "timestamp": "2026-05-10T11:35:03.918Z",
+      "userId": "user1",
+      "_id": "c896396a-176f-4a25-9491-65be2836108b"
+    },
+    {
+      "deviceId": "cb560012a503",
+      "status": "CONNECTED",
+      "reason": "connected",
+      "timestamp": "2026-05-10T11:35:12.926Z",
+      "userId": "user1",
+      "_id": "db6c1c2d-eaa3-4806-9855-855b2fa50574"
+    }
+  ]
+}

@@ -50,3 +50,5 @@ ENV/
 *.bak
 *.orig
 *.swp
+temp_auto_push.bat
+temp_interactive_push.bat
