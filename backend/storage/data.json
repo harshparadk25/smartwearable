@@ -5439,6 +5439,14 @@
       "passwordHash": "$2a$12$38NOKdujzxHfpQQFVir0u.a2nNAzA7VKOPs1ol2zLck4xsmFw.Px2",
       "createdAt": "2026-05-09T16:55:10.911Z",
       "lastLoginAt": "2026-05-10T10:52:28.030Z"
+    },
+    {
+      "_id": "e2ac1d4b-bc47-4275-82c6-57732caa90d3",
+      "name": "Priyanshi S",
+      "email": "priyanshishukla250604@gmail.com",
+      "passwordHash": "$2a$12$/hdanHJdwVAVQd3AFZK3M.ih7nCCSFt.fcNceqMe7vSUdO1IMOE5G",
+      "createdAt": "2026-05-14T18:33:48.562Z",
+      "lastLoginAt": null
     }
   ],
   "connections": [
