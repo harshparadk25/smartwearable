@@ -617,7 +617,10 @@ noble.on('stateChange', (state) => {
       startScanning();
     }
   } else {
-    log(`BLE state: ${state}`);
+    const hint = state === 'poweredOff'
+      ? 'BLE state: poweredOff — enable Bluetooth in your system settings, then restart.'
+      : `BLE state: ${state}`;
+    log(hint);
     noble.stopScanning();
   }
 });
