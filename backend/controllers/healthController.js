@@ -1,4 +1,9 @@
-const { addHealthData, addAlerts, getLatestHealthData } = require('../storage/dataStore');
+const {
+  addHealthData,
+  addAlerts,
+  getLatestHealthData,
+  getLatestHealthDataByUserId
+} = require('../storage/dataStore');
 const { evaluateAlerts } = require('../services/alertEngine');
 
 const toNumber = (value) => {
@@ -13,19 +18,21 @@ const toDate = (value) => {
 
 exports.createHealthData = async (req, res, next) => {
   try {
-    const { userId, heartRate, spo2, temperature, timestamp } = req.body || {};
+    const { userId, heartRate, spo2, temperature, timestamp, devicePin } = req.body || {};
 
-    if (!userId || heartRate == null || spo2 == null || temperature == null || !timestamp) {
-      return res.status(400).json({ message: 'Missing required fields' });
+    // heartRate and timestamp are required; spo2 and temperature are optional
+    // (not all watch models expose standard GATT services for every metric)
+    if (!userId || heartRate == null || !timestamp) {
+      return res.status(400).json({ message: 'userId, heartRate and timestamp are required' });
     }
 
-    const hr = toNumber(heartRate);
-    const s = toNumber(spo2);
-    const temp = toNumber(temperature);
-    const ts = toDate(timestamp);
+    const hr   = toNumber(heartRate);
+    const s    = spo2        != null ? toNumber(spo2)        : null;
+    const temp = temperature != null ? toNumber(temperature) : null;
+    const ts   = toDate(timestamp);
 
-    if (hr === null || s === null || temp === null || !ts) {
-      return res.status(400).json({ message: 'Invalid field types' });
+    if (hr === null || !ts) {
+      return res.status(400).json({ message: 'Invalid heartRate or timestamp' });
     }
 
     const health = await addHealthData({
@@ -33,7 +40,8 @@ exports.createHealthData = async (req, res, next) => {
       heartRate: hr,
       spo2: s,
       temperature: temp,
-      timestamp: ts.toISOString()
+      timestamp: ts.toISOString(),
+      ...(devicePin ? { devicePin: String(devicePin) } : {})
     });
 
     console.log('[healthData]', {
@@ -75,9 +83,14 @@ exports.createHealthData = async (req, res, next) => {
   }
 };
 
+// GET /api/health/latest?userId=xxx
+// If userId query param is provided, return that user's latest; otherwise global latest.
 exports.getLatestHealthData = async (req, res, next) => {
   try {
-    const latest = await getLatestHealthData();
+    const userId = req.query.userId;
+    const latest = userId
+      ? await getLatestHealthDataByUserId(String(userId).trim())
+      : await getLatestHealthData();
     return res.json(latest || null);
   } catch (err) {
     return next(err);

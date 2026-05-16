@@ -1,39 +1,30 @@
 const evaluateAlerts = (healthData) => {
   const alerts = [];
+  const { userId, heartRate, spo2, temperature, timestamp, _id } = healthData;
 
-  if (healthData.heartRate > 120) {
+  // Guard every check — null/undefined values must not trigger alerts
+  // (JavaScript coerces null to 0, so `null < 90` would be true without guards)
+  if (Number.isFinite(heartRate) && heartRate > 120) {
     alerts.push({
-      userId: healthData.userId,
-      type: 'HEART_RATE',
-      severity: 'HIGH',
+      userId, type: 'HEART_RATE', severity: 'HIGH',
       message: 'High heart rate detected',
-      value: healthData.heartRate,
-      timestamp: healthData.timestamp,
-      healthDataId: healthData._id
+      value: heartRate, timestamp, healthDataId: _id
     });
   }
 
-  if (healthData.spo2 < 90) {
+  if (Number.isFinite(spo2) && spo2 < 90) {
     alerts.push({
-      userId: healthData.userId,
-      type: 'SPO2',
-      severity: 'HIGH',
+      userId, type: 'SPO2', severity: 'HIGH',
       message: 'Low SpO2 detected',
-      value: healthData.spo2,
-      timestamp: healthData.timestamp,
-      healthDataId: healthData._id
+      value: spo2, timestamp, healthDataId: _id
     });
   }
 
-  if (healthData.temperature > 38) {
+  if (Number.isFinite(temperature) && temperature > 38) {
     alerts.push({
-      userId: healthData.userId,
-      type: 'TEMPERATURE',
-      severity: 'MEDIUM',
+      userId, type: 'TEMPERATURE', severity: 'MEDIUM',
       message: 'Elevated temperature detected',
-      value: healthData.temperature,
-      timestamp: healthData.timestamp,
-      healthDataId: healthData._id
+      value: temperature, timestamp, healthDataId: _id
     });
   }
 

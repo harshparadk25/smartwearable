@@ -4,7 +4,10 @@ import AppShell from './components/AppShell';
 import PageTransition from './components/PageTransition';
 import ProtectedRoute from './components/ProtectedRoute';
 import Alerts from './pages/Alerts';
+import Analysis from './pages/Analysis';
 import Dashboard from './pages/Dashboard';
+import Family from './pages/Family';
+import FamilyDashboard from './pages/FamilyDashboard';
 import Landing from './pages/Landing';
 import Login from './pages/Login';
 import Register from './pages/Register';
@@ -53,6 +56,31 @@ const App = () => {
             element={
               <ProtectedRoute>
                 <Alerts />
+              </ProtectedRoute>
+            }
+          />
+          <Route
+            path="/family"
+            element={
+              <ProtectedRoute>
+                <Family />
+              </ProtectedRoute>
+            }
+          />
+          <Route
+            path="/family-dashboard"
+            element={
+              <ProtectedRoute>
+                <FamilyDashboard />
+              </ProtectedRoute>
+            }
+          />
+          {/* /analysis shows your own; /analysis/:userId shows a member */}
+          <Route
+            path="/analysis/:userId?"
+            element={
+              <ProtectedRoute>
+                <Analysis />
               </ProtectedRoute>
             }
           />
