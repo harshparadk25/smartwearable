@@ -1,0 +1,16 @@
+{
+  "name": "ehms",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "concurrently --names \"backend,frontend,bridge\" --prefix-colors \"cyan,green,magenta\" \"npm run backend\" \"npm run frontend\" \"npm run bridge\"",
+    "backend": "cd backend && node server.js",
+    "backend:dev": "cd backend && npx nodemon server.js",
+    "frontend": "cd frontend && npm run dev",
+    "bridge": "cd ble-bridge && node index.js",
+    "dev": "concurrently --names \"backend,frontend,bridge\" --prefix-colors \"cyan,green,magenta\" \"npm run backend:dev\" \"npm run frontend\" \"npm run bridge\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}

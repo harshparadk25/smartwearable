@@ -1,4 +1,5 @@
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000';
+// Relative path — Vite proxies /api to the backend, so no hostname needed
+const API_URL = import.meta.env.VITE_API_URL || '';
 
 const getStoredToken = () => localStorage.getItem('ehms_token');
 

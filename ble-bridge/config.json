@@ -16,7 +16,8 @@
   "backend": {
     "apiUrl": "http://localhost:5000/api/health",
     "connectionUrl": "http://localhost:5000/api/connections",
-    "userId": "user1"
+    "deviceRegistrationUrl": "http://localhost:5000/api/devices/register",
+    "userId": ""
   },
   "defaults": {
     "heartRate": 75,
@@ -31,5 +32,5 @@
   "readIntervalMs": 5000,
   "mappingProbeMs": 1500,
   "bridgePort": 7070,
-  "bridgeOrigin": "http://localhost:5173"
+  "bridgeOrigin": "*"
 }
