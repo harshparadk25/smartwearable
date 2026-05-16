@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"d:\\\\smartwearable\" -Recurse -Force)",
+      "Bash(Select-Object FullName)",
+      "PowerShell(head -100)",
+      "Bash(npm install *)",
+      "PowerShell(Invoke-RestMethod -Uri \"http://localhost:5000/health\" -Method GET 2>&1)",
+      "PowerShell($r = Invoke-WebRequest -Uri \"http://localhost:5000/api/alerts\" -Method GET -Headers @{Authorization=\"Bearer test\"} -UseBasicParsing 2>&1; Write-Output \"Status: $\\($r.StatusCode\\)\"; Write-Output \"Body: $\\($r.Content\\)\")",
+      "PowerShell(Set-Location \"d:\\\\smartwearable\\\\backend\"; $env:NODE_PATH=\"\"; node --check server.js 2>&1; node --check storage/dataStore.js 2>&1; node --check controllers/familyController.js 2>&1; node --check controllers/deviceController.js 2>&1; node --check controllers/analysisController.js 2>&1; Write-Output \"All syntax checks passed\")",
+      "Bash(Get-ChildItem -Path \"d:\\\\smartwearable\" -Directory -Force)",
+      "Bash(Select-Object Name)"
+    ]
+  }
+}

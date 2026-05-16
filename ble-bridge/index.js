@@ -15,8 +15,14 @@ const connectionUrl =
   process.env.CONNECTION_URL ||
   config.backend.connectionUrl ||
   apiUrl.replace(/\/api\/health\/?$/, '/api/connections');
-const userId = process.env.USER_ID || config.backend.userId;
+const deviceRegistrationUrl =
+  process.env.DEVICE_REGISTRATION_URL ||
+  config.backend.deviceRegistrationUrl ||
+  apiUrl.replace(/\/api\/health\/?$/, '/api/devices/register');
+const configUserId = process.env.USER_ID || config.backend.userId;
+let userId = configUserId; // overwritten by resolveUserIdFromToken() once a JWT is set
 let apiToken = process.env.API_TOKEN || '';
+const authMeUrl = apiUrl.replace(/\/api\/health\/?$/, '/api/auth/me');
 const bridgePort = Number(process.env.BRIDGE_PORT || config.bridgePort || 7070);
 const bridgeOrigin = process.env.BRIDGE_ORIGIN || config.bridgeOrigin || 'http://localhost:5173';
 const reconnectDelayMs = Number(process.env.RECONNECT_DELAY_MS || config.reconnectDelayMs || 3000);
@@ -56,9 +62,17 @@ let mapping = {
   temperature: getConfigMapping('temperature') || null
 };
 
-const lastVitals = { ...defaults };
+// Initialize spo2/temperature to null — only set once the watch actually provides them.
+// Using defaults here would cause the bridge to silently send stale placeholder values.
+const lastVitals = { heartRate: null, spo2: null, temperature: null };
+
+// Vitals buffered while userId is not yet resolved from a JWT token
+const pendingVitals = [];
+
+
 let activePeripheral = null;
 let activeDeviceId = null;
+let activeDevicePin = null;
 let shuttingDown = false;
 let manualScanActive = false;
 let manualScanPromise = null;
@@ -187,6 +201,7 @@ const metricConfig = {
     format: (value) => Number(value.toFixed(1))
   }
 };
+
 
 const metricRanges = {
   heartRate: { min: 30, max: 220 },
@@ -381,17 +396,26 @@ const subscribeMetric = async (metric, characteristic) => {
 };
 
 const autoMapStandard = () => {
-  const candidates = {
-    heartRate: charUuids.heartRate || '2a37',
-    spo2: charUuids.spo2 || '2a5e',
-    temperature: charUuids.temperature || '2a1c'
-  };
+  const hrUuid = charUuids.heartRate || '2a37';
+  if (!mapping.heartRate && hrUuid && discoveredCharacteristics.has(hrUuid)) {
+    mapping.heartRate = hrUuid;
+  }
 
-  Object.entries(candidates).forEach(([metric, uuid]) => {
-    if (!mapping[metric] && uuid && discoveredCharacteristics.has(uuid)) {
-      mapping[metric] = uuid;
+  // Standard SpO2: Pulse Oximeter Spot-Check (2a5e) or Continuous (2a5f)
+  const spo2Candidates = [charUuids.spo2, '2a5e', '2a5f'].filter(Boolean);
+  if (!mapping.spo2) {
+    for (const uuid of spo2Candidates) {
+      if (discoveredCharacteristics.has(uuid)) { mapping.spo2 = uuid; break; }
     }
-  });
+  }
+
+  // Standard temperature: Temperature Measurement (2a1c) or Temperature (2a6e)
+  const tempCandidates = [charUuids.temperature, '2a1c', '2a6e'].filter(Boolean);
+  if (!mapping.temperature) {
+    for (const uuid of tempCandidates) {
+      if (discoveredCharacteristics.has(uuid)) { mapping.temperature = uuid; break; }
+    }
+  }
 };
 
 const applyMapping = async () => {
@@ -412,17 +436,28 @@ const applyMapping = async () => {
 
 const sendVitals = async (patch) => {
   Object.assign(lastVitals, patch);
+
+  // Only include fields that have been genuinely received from the watch.
+  // HR falls back to default so we always have at least one metric to send.
   const payload = {
-    userId,
     heartRate: toNumber(lastVitals.heartRate, defaults.heartRate),
-    spo2: toNumber(lastVitals.spo2, defaults.spo2),
-    temperature: toNumber(lastVitals.temperature, defaults.temperature),
-    timestamp: new Date().toISOString()
+    timestamp: new Date().toISOString(),
+    ...(lastVitals.spo2        != null ? { spo2:        lastVitals.spo2        } : {}),
+    ...(lastVitals.temperature != null ? { temperature: lastVitals.temperature } : {}),
+    ...(activeDevicePin ? { devicePin: activeDevicePin } : {}),
   };
+
+  // Buffer data until the real userId is resolved from the JWT token
+  if (!userId) {
+    pendingVitals.push(payload);
+    if (pendingVitals.length > 20) pendingVitals.shift(); // keep last 20 max
+    log('[vitals] buffered — waiting for user to log in on the Dashboard');
+    return;
+  }
 
   try {
     const headers = apiToken ? { Authorization: `Bearer ${apiToken}` } : undefined;
-    await axios.post(apiUrl, payload, { timeout: 5000, headers });
+    await axios.post(apiUrl, { ...payload, userId }, { timeout: 5000, headers });
   } catch (err) {
     const status = err.response?.status;
     const message = err.response?.data?.message || err.message;
@@ -430,7 +465,60 @@ const sendVitals = async (patch) => {
   }
 };
 
+// Resolve the real userId from the JWT token so each user's bridge sends data
+// under their own account — not the hardcoded config userId
+const flushPendingVitals = async () => {
+  if (!pendingVitals.length) return;
+  log(`[auth] flushing ${pendingVitals.length} buffered vitals readings`);
+  const toSend = pendingVitals.splice(0, pendingVitals.length);
+  for (const payload of toSend) {
+    try {
+      const headers = apiToken ? { Authorization: `Bearer ${apiToken}` } : undefined;
+      await axios.post(apiUrl, { ...payload, userId }, { timeout: 5000, headers });
+    } catch { /* ignore flush errors */ }
+  }
+};
+
+const resolveUserIdFromToken = async () => {
+  if (!apiToken) return;
+  try {
+    const response = await axios.get(authMeUrl, {
+      headers: { Authorization: `Bearer ${apiToken}` },
+      timeout: 5000
+    });
+    if (response.data?._id) {
+      userId = response.data._id;
+      log(`[auth] userId resolved: ${userId} (${response.data.name || ''})`);
+      // Send any vitals that arrived before we knew the userId
+      flushPendingVitals().catch(() => {});
+    }
+  } catch (err) {
+    const status = err.response?.status;
+    log(`[auth] could not resolve userId: ${status || err.message}`);
+  }
+};
+
+const registerDevice = async () => {
+  if (!userId) return; // wait until userId is known
+  const payload = {
+    macAddress: activeDeviceId || '',
+    name: targetName || 'Smart Watch',
+    userId
+  };
+  try {
+    const headers = apiToken ? { Authorization: `Bearer ${apiToken}` } : undefined;
+    const response = await axios.post(deviceRegistrationUrl, payload, { timeout: 5000, headers });
+    activeDevicePin = String(response.data.pin || '');
+    log(`[device] registered — PIN: ${activeDevicePin}`);
+  } catch (err) {
+    const status = err.response?.status;
+    const message = err.response?.data?.message || err.message;
+    log(`Device registration failed: ${status || 'n/a'} ${message}`);
+  }
+};
+
 const sendConnectionEvent = async (status, reason) => {
+  if (!userId) return; // wait until userId is known
   const payload = {
     deviceId: activeDeviceId || targetId || targetName || 'unknown',
     status,
@@ -534,6 +622,7 @@ const onDisconnect = () => {
   sendConnectionEvent('DISCONNECTED', 'disconnect');
   activePeripheral = null;
   activeDeviceId = null;
+  activeDevicePin = null;
   clearAllSubscriptions().catch(() => {});
   scheduleReconnect();
 };
@@ -561,6 +650,7 @@ const handleDiscover = async (peripheral) => {
     await connectAsync(peripheral);
     log('Connected to device');
     sendConnectionEvent('CONNECTED', 'connected');
+    registerDevice().catch(() => {});
 
     peripheral.on('disconnect', onDisconnect);
 
@@ -607,6 +697,9 @@ const handleDiscover = async (peripheral) => {
   }
 };
 
+// If a token was provided via env var, resolve the userId immediately
+if (apiToken) resolveUserIdFromToken().catch(() => {});
+
 if (!scanOnly && !targetName && !targetId) {
   log('No target device selected. Use scan to pick a watch.');
 }
@@ -617,7 +710,10 @@ noble.on('stateChange', (state) => {
       startScanning();
     }
   } else {
-    log(`BLE state: ${state}`);
+    const hint = state === 'poweredOff'
+      ? 'BLE state: poweredOff — enable Bluetooth in your system settings, then restart.'
+      : `BLE state: ${state}`;
+    log(hint);
     noble.stopScanning();
   }
 });
@@ -668,6 +764,8 @@ const server = http.createServer(async (req, res) => {
       return;
     }
     apiToken = nextToken;
+    // Resolve the real userId for this token immediately
+    resolveUserIdFromToken().catch(() => {});
     sendJson(res, 200, { ok: true });
     return;
   }
@@ -750,11 +848,23 @@ const server = http.createServer(async (req, res) => {
     return;
   }
 
+  if (pathname === '/pin' && req.method === 'GET') {
+    sendJson(res, 200, {
+      pin: activeDevicePin || null,
+      connected: Boolean(activePeripheral)
+    });
+    return;
+  }
+
   if (pathname === '/status' && req.method === 'GET') {
     sendJson(res, 200, {
       target: { id: targetId || null, name: targetName || null },
       connected: Boolean(activePeripheral),
       activeDeviceId: activeDeviceId || null,
+      devicePin: activeDevicePin || null,
+      userId: userId || null,
+      ready: Boolean(userId),
+      buffered: pendingVitals.length,
       state: noble.state
     });
     return;
